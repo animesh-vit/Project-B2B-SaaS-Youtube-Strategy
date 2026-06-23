@@ -1,4 +1,6 @@
 ### Source: Samu Kovacs
+> Create YouTube Videos That Grow Your MRR While Positioning himself as the #1 Authority in Your Market 
+> Actively Running 40+ B2B YouTube Channels 
 
 ## Post 1
 
