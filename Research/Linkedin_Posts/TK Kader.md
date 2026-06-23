@@ -1,4 +1,6 @@
 ### Source: TK Kader
+> Growth Partner to Scaling CEOs. 
+> ex- Bridgewater, ToutApp (a16z), Marketo (Vista).
 
 ## Post 1
 
