@@ -120,7 +120,7 @@ Together, these experts represent complementary perspectives on YouTube content 
 + Their LinkedIn posts, YouTube videos, podcasts, and articles were collected for analysis.
 7. Automated YouTube Transcript Collection
   + Created a lightweight Python script to automatically collect YouTube transcripts using Codex.
-    > File: get_transcripts.py
+    > File: get_transcripts.py [Location: [`Research/Scripts/`](Research/Scripts/)
       + Accepts either a YouTube URL or Video ID
       + Downloads transcripts using youtube-transcript-api
       + Removes timestamps and metadata
