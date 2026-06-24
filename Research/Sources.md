@@ -1,115 +1,123 @@
-# List of Experts
-adam-robinson
-nathan-latka
-phil-nottingham
-rob-walling
-ross-simmonds
-sam-dunning
-samu-kovacs
-tk-kader
-tom-whatleyg
-tyler-lessard
+# Expert Sources
 
-Here is the requested digital profile information for these prominent figures in the B2B, SaaS, and digital marketing ecosystems.
+This document contains the primary experts selected for research on **YouTube Content Strategy for B2B SaaS**.
 
 ---
-<summary> <b> 📑Table of Contents</b> </summary>
 
-* [Adam Robinson](#Adam-obinson)
-* [Nathan Latka](#Nathan-Latka)
-* [Setup Steps](#setup-steps)
-* [Issues Encountered](#issues-encountered)
-* [Outcome](#outcome)
-* [Useful Links](#useful-links)
-  
-</details>
+1. **TK Kader**
+    + **Role:** Founder & SaaS Growth Advisor
+    + **Website:** [https://tkkader.com](https://tkkader.com)
+    + **YouTube:** [https://www.youtube.com/@tkkader](https://www.youtube.com/@tkkader)
+    + **LinkedIn:** [https://www.linkedin.com/in/tkkader](https://www.linkedin.com/in/tkkader)
+    > Former founder of ToutApp and advisor to high-growth SaaS companies.
 
-### **Adam Robinson**
+2. **Samu Kovacs**
+    + **Role:** Founder, KS Media
+    + **Website:** [https://ks-media.co](https://ks-media.co)
+    + **YouTube:** [https://www.youtube.com/@samu_kovacs](https://www.youtube.com/@samu_kovacs)
+    + **LinkedIn:** [https://www.linkedin.com/in/samu-kovacs](https://www.linkedin.com/in/samu-kovacs)
+    > Helps B2B SaaS companies turn YouTube into a lead generation channel.
 
-* **Position:** Founder & CEO
-* **Company Website URL:** https://www.rb2b.com
-* **YouTube Channel Link:** N/A (Mainly features as a guest on business channels)
-* **LinkedIn Link:** (https://www.google.com/search?q=https://www.linkedin.com/in/adamtobiasrobinson)
-* **Other Necessary Info:** Famous for "building in public" on LinkedIn, bootstrapping RB2B to $5M ARR in just 15 months entirely through organic social content.
-* **One-Sentence Description:** Adam is an e-commerce and B2B SaaS pioneer specializing in identity resolution tech and founder-led growth.
 
-### **Nathan Latka**
+**3. Phil Nottingham**
 
-* **Position:** Founder & CEO
-* **Company Website URL:** [Founderpath](https://founderpath.com)
-* **YouTube Channel Link:** [Nathan Latka YouTube](https://www.google.com/search?q=https://www.youtube.com/%40NathanLatka)
-* **LinkedIn Link:** [Nathan Latka on LinkedIn](https://www.linkedin.com/in/nathanlatka)
-* **Other Necessary Info:** Host of *The Top Entrepreneurs* podcast, author of *How to Be a Capitalist Without Any Capital*, and manager of a multi-million dollar SaaS credit fund.
-* **One-Sentence Description:** Nathan is an aggressive executive producer, investor, and tech entrepreneur who helps SaaS founders secure non-dilutive funding.
+**Role:** Video Strategist & SEO Consultant
 
-### **Phil Nottingham**
+**Website:** [https://organicvideo.co](https://organicvideo.co)
 
-* **Position:** Video Strategist, SEO Expert & Consultant
-* **Company/Affiliation URL:** [Organic Video](https://www.google.com/search?q=https://organicvideo.co) / [Wistia](https://wistia.com)
-* **YouTube Channel Link:** N/A (Acts as an industry speaker and guest contributor)
-* **LinkedIn Link:** [Phil Nottingham on LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/philnottingham)
-* **Other Necessary Info:** He is a core brand and video marketing expert for Wistia and frequently speaks at MozCon and other top-tier marketing conferences.
-* **One-Sentence Description:** Phil is a seasoned strategic consultant who bridges the gap between video production, brand creativity, and advanced search engine optimization.
+**LinkedIn:** [https://www.linkedin.com/in/philnottingham](https://www.linkedin.com/in/philnottingham)
 
-### **Rob Walling**
+> Recognized authority on video SEO, YouTube strategy, and video-driven demand generation.
+---
 
-* **Position:** Co-Founder & General Partner
-* **Company Website URL:** [TinySeed](https://tinyseed.com) & [MicroConf](https://microconf.com)
-* **YouTube Channel Link:** [MicroConf YouTube](https://www.youtube.com/@MicroConf)
-* **LinkedIn Link:** [Rob Walling on LinkedIn](https://www.linkedin.com/in/robwalling)
-* **Other Necessary Info:** Author of three books including *Start Small, Stay Small*, former founder of Drip (acquired), and host of the legendary *Startups for the Rest of Us* podcast.
-* **One-Sentence Description:** Rob is a serial angel investor and pioneer of the modern independent, bootstrapped SaaS acceleration ecosystem.
+**4. Sam Dunning**
 
-### **Ross Simmonds**
+**Role:** Co-Founder, Breaking B2B
 
-* **Position:** Founder & CEO
-* **Company Website URL:** [Foundation Inc.](https://foundationinc.co)
-* **YouTube Channel Link:** [Ross Simmonds YouTube](https://www.google.com/search?q=https://www.youtube.com/%40TheRossSimmonds)
-* **LinkedIn Link:** [Ross Simmonds on LinkedIn](https://www.linkedin.com/in/rosssimmonds)
-* **Other Necessary Info:** Best known for coining the marketing mantra "Create once. Distribute forever." and building Distribution.ai.
-* **One-Sentence Description:** Ross is a highly energetic B2B content marketing strategist and enterprise SEO powerhouse specializing in systematic content distribution.
+**Website:** [https://www.breakingb2b.com](https://www.breakingb2b.com)
 
-### **Sam Dunning**
+**YouTube:** [https://www.youtube.com/@breakingb2b](https://www.youtube.com/@breakingb2b)
 
-* **Position:** Co-Founder & Host
-* **Company Website URL:** [Breaking B2B](https://www.breakingb2b.com)
-* **YouTube Channel Link:** [Sam Dunning - Breaking B2B YouTube](https://www.google.com/search?q=https://www.youtube.com/%40breakingb2b)
-* **LinkedIn Link:** [Sam Dunning on LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/samdunning)
-* **Other Necessary Info:** Creator of the "Deadly Trio" marketing matrix combining organic B2B SEO, LinkedIn presence, and active video search optimization.
-* **One-Sentence Description:** Sam is a B2B marketing specialist who builds high-intent organic SEO and search generation engines designed to drive revenue over vanity metrics.
+**LinkedIn:** [https://www.linkedin.com/in/samdunning](https://www.linkedin.com/in/samdunning)
 
-### **Samu Kovacs**
+> Focuses on B2B SEO, YouTube growth, and revenue-focused demand generation.
+---
 
-* **Position:** Founder & B2B YouTube Growth Consultant
-* **Company Website URL:** [KS Media](https://ks-media.co)
-* **YouTube Channel Link:** [Samu Kovacs YouTube](https://www.google.com/search?q=https://www.youtube.com/%40samu_kovacs)
-* **LinkedIn Link:** [Samu Kovacs on LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/samu-kovacs)
-* **Other Necessary Info:** Collaborates tightly with modern SEO houses (like Breaking B2B) to convert YouTube from a simple video repository into an active lead acquisition engine.
-* **One-Sentence Description:** Samu is a video production advisor helping B2B tech and SaaS brands scale up inbound lead generation through highly structured YouTube channels.
+**5. Tyler Lessard**
 
-### **TK Kader**
+**Role:** VP Marketing & Chief Video Strategist, Vidyard
 
-* **Position:** Founder & SaaS Growth Advisor
-* **Company Website URL:** [Unstoppable Strategy](https://www.google.com/search?q=https%3A%2F%2Ftkkader.com)
-* **YouTube Channel Link:** [TK Kader YouTube](https://www.google.com/search?q=https%3A%2F%2Fwww.youtube.com%2F%40tkkader)
-* **LinkedIn Link:** [TK Kader on LinkedIn](https://www.google.com/search?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftkkader)
-* **Other Necessary Info:** Former founder of ToutApp (backed by Andreessen Horowitz and acquired by Marketo), he runs the "Unstoppable" programs helping founders hit $10M+ ARR.
-* **One-Sentence Description:** TK is an execution-focused scaling advisor specializing in founder-led sales playbooks and repeatable go-to-market strategies.
+**Website:** [https://www.vidyard.com](https://www.vidyard.com)
 
-### **Tom Whatley**
+**YouTube:** [https://www.youtube.com/@SalesFeed](https://www.youtube.com/@SalesFeed)
 
-* **Position:** Founder & CEO
-* **Company Website URL:** [Grizzle](https://www.google.com/search?q=https%3A%2F%2Fgrizzle.io)
-* **YouTube Channel Link:** N/A (Publishes proprietary data studies via the Grizzle brand)
-* **LinkedIn Link:** [Tom Whatley on LinkedIn](https://www.google.com/search?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftomwhatley)
-* **Other Necessary Info:** Leads a premier organic growth engine tailored specifically to tech companies trying to align traditional SEO content with modern generative engines (GEO).
-* **One-Sentence Description:** Tom is an organic traffic architect who transforms traditional corporate content marketing into a high-yielding revenue pipeline.
+**LinkedIn:** [https://www.linkedin.com/in/tylerlessard](https://www.linkedin.com/in/tylerlessard)
 
-### **Tyler Lessard**
+> Leading advocate for video-first communication in modern B2B marketing and sales.
+---
 
-* **Position:** VP Marketing & Chief Video Strategist
-* **Company Website URL:** [Vidyard](https://www.google.com/search?q=https%3A%2F%2Fwww.vidyard.com)
-* **YouTube Channel Link:** Featured via [Sales Feed YouTube](https://www.google.com/search?q=https%3A%2F%2Fwww.youtube.com%2F%40SalesFeed) (Vidyard's media network)
-* **LinkedIn Link:** [Tyler Lessard on LinkedIn](https://www.google.com/search?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ftylerlessard)
-* **Other Necessary Info:** Co-author of *The Visual Sale* and a leading voice behind using humorous, highly personalized asynchronous video clips across sales outreach.
-* **One-Sentence Description:** Tyler is a recognized B2B community builder who champions customer-centric visual communication and data-driven video marketing.
+
+**1. Adam Robinson**
+
+**Role:** Founder & CEO, RB2B
+
+**Website:** [https://www.rb2b.com](https://www.rb2b.com)
+
+**LinkedIn:** [https://www.linkedin.com/in/adamtobiasrobinson](https://www.linkedin.com/in/adamtobiasrobinson)
+
+> Known for building RB2B to $5M ARR through founder-led organic content and building in public.
+---
+
+**2. Nathan Latka**
+
+**Role:** Founder & CEO, Founderpath
+
+**Website:** [https://founderpath.com](https://founderpath.com)
+
+**YouTube:** [https://www.youtube.com/@NathanLatka](https://www.youtube.com/@NathanLatka)
+
+**LinkedIn:** [https://www.linkedin.com/in/nathanlatka](https://www.linkedin.com/in/nathanlatka)
+
+> Host of The Top Entrepreneurs podcast and a leading voice in SaaS metrics, funding, and founder education.
+---
+
+**4. Rob Walling**
+
+**Role:** Co-Founder, TinySeed & MicroConf
+
+**Websites:**
+
+- [https://tinyseed.com](https://tinyseed.com)
+- [https://microconf.com](https://microconf.com)
+
+**YouTube:** [https://www.youtube.com/@MicroConf](https://www.youtube.com/@MicroConf)
+
+**LinkedIn:** [https://www.linkedin.com/in/robwalling](https://www.linkedin.com/in/robwalling)
+
+> Pioneer of the bootstrapped SaaS movement and founder of the TinySeed accelerator.
+---
+
+**5. Ross Simmonds**
+
+**Role:** Founder & CEO, Foundation
+
+**Website:** [https://foundationinc.co](https://foundationinc.co)
+
+**YouTube:** [https://www.youtube.com/@TheRossSimmonds](https://www.youtube.com/@TheRossSimmonds)
+
+**LinkedIn:** [https://www.linkedin.com/in/rosssimmonds](https://www.linkedin.com/in/rosssimmonds)
+
+> Famous for the philosophy: "Create once. Distribute forever."
+---
+
+**9. Tom Whatley**
+
+**Role:** Founder & CEO, Grizzle
+
+**Website:** [https://grizzle.io](https://grizzle.io)
+
+**LinkedIn:** [https://www.linkedin.com/in/tomwhatley](https://www.linkedin.com/in/tomwhatley)
+
+> Specialist in SEO, content strategy, and organic growth for technology companies.
+---
+
