@@ -88,7 +88,7 @@ Together, these experts represent complementary perspectives on YouTube content 
     + YouTube
     + Manual Research
 
-## Steps
+## Methodology
 
 **1. Topic selection**
 + ***YouTube Content Strategy for B2B SaaS***
@@ -106,7 +106,18 @@ Together, these experts represent complementary perspectives on YouTube content 
      > <br> (In Terminal)
       
 5. Used Codex within Cursor IDE to  generate the initial project structure according to the assignment requirements.
-6. Expert Identification
++ Repository Structure <br> 
+
+         Research/
+         ├── Linkedin_Posts/
+         ├── YouTube_Transcripts/
+         ├── Others/
+               └── Key Insight.md
+         └── Sources.md
+       
+7. Expert Identification & Source Collection
++ Selected & documented leading B2B SaaS marketers, founders, and content creators.
++ Their LinkedIn posts, YouTube videos, podcasts, and articles were collected for analysis.
 7. Automated YouTube Transcript Collection
   + Created a lightweight Python script to automatically collect YouTube transcripts using Codex.
     > File: get_transcripts.py
@@ -122,13 +133,13 @@ Together, these experts represent complementary perspectives on YouTube content 
 + All posts were organized into a single raw-text file grouped by author in:
     + [`Research/Linkedin_Posts/raw-text-posts`](Research/Linkedin_Posts/raw-text-posts)
   > Format
-      >  <br> Source: Author Name
-       <br> ## Post 1
-  >         <br> ...
-  >          <br> ## Post 2
-  >          <br>  ...
-  >           <br> ## Post 3
-  >           <br>  ...       
+          >  <br> Source: Author Name
+           <br> ## Post 1
+      >         <br> ...
+      >          <br> ## Post 2
+      >          <br>  ...
+      >           <br> ## Post 3
+      >           <br>  ...       
 9. Used Codex within Cursor IDE to analyze collected LinkedIn posts and save them in  [`Research/Linkedin_Posts/`](Research/Linkedin_Posts/).
 10. Based on the collected research material, Codex was used to generate structured insights and strategic takeaways. [`Key Insight.md`](Research/Others/Key%20Insight.md)
 
