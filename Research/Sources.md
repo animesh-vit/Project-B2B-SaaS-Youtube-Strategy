@@ -58,7 +58,7 @@ This document contains the primary experts selected for research on **YouTube Co
 ***
 ## 6. **Nathan Latka**
 > Founder & CEO, Founderpath
-
+>
 > Host of The Top Entrepreneurs podcast and a leading voice in SaaS metrics, funding, and founder education.
 + **Website:**
     - [https://getlatka.com/](https://getlatka.com/) [Personal]
@@ -76,7 +76,7 @@ This document contains the primary experts selected for research on **YouTube Co
 ***
 ## 8. **Ross Simmonds**
 > Founder & CEO, Foundation
-
+>
 >Famous for the philosophy: "Create once. Distribute forever." and expert in content distribution, AI marketing, Reddit marketing, growth, and SaaS 
 + **Website:**
     - [https://foundationinc.co](https://foundationinc.co) [Company]
@@ -90,7 +90,7 @@ This document contains the primary experts selected for research on **YouTube Co
 ***      
 ## 10. **Tom Whatley**
 > Founder & CEO, Grizzle
-
+>
 > Specialist in SEO, content strategy, and organic growth for technology companies.
 + **Website:** [https://grizzle.io](https://grizzle.io) [Company]
 + **YouTube:** [https://www.youtube.com/channel/@TomWhatley](https://www.youtube.com/channel/UCJ0zIQo3KxV1L6Ic8LIDhQA)
