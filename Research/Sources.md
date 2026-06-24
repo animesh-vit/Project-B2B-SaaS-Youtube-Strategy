@@ -5,7 +5,7 @@ This document contains the primary experts selected for research on **YouTube Co
 <details>
 <summary> <b> 📑Table of Contents</b> </summary>
 
- * [TK Kader](#1.-TK-Kader)
+ * [TK Kader](#1-TK-Kader)
  * [Samu Kovacs](#Samu-Kovacs)
  * [Sam Dunning](#Sam-Dunning)
  * [Tyler Lessard](#Tyler-Lessard)
