@@ -5,7 +5,15 @@ This document contains the primary experts selected for research on **YouTube Co
 <summary> <b> 📑Table of Contents</b> </summary>
 
  * [TK Kader](#TK-Kader)
- * 
+ * [Samu Kovacs](#Samu-Kovacs)
+ * [Sam Dunning](#Sam-Dunning)
+ * [Tyler Lessard](#Tyler-Lessard)
+ * [Adam Robinson](#Adam-Robinson)
+ * [Nathan Latka](#Nathan-Latka)
+ * [Rob Walling](#Rob-Walling)
+ * [Ross Simmonds](#oss-Simmonds)
+ * [Phil Nottingham](#Phil-Nottingham)
+ * [Tom Whatley](#Tom-Whatley)
 </details>
 
 ---
