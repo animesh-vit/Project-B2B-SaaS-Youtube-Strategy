@@ -18,34 +18,19 @@ This document contains the primary experts selected for research on **YouTube Co
     + **LinkedIn:** [https://www.linkedin.com/in/samu-kovacs](https://www.linkedin.com/in/samu-kovacs)
     > Helps B2B SaaS companies turn YouTube into a lead generation channel.
 
-
-**3. Phil Nottingham**
-
-**Role:** Video Strategist & SEO Consultant
-
-**Website:** [https://organicvideo.co](https://organicvideo.co)
-
-**LinkedIn:** [https://www.linkedin.com/in/philnottingham](https://www.linkedin.com/in/philnottingham)
-
-> Recognized authority on video SEO, YouTube strategy, and video-driven demand generation.
----
-
-**4. Sam Dunning**
-
-**Role:** Co-Founder, Breaking B2B
-
-**Website:** [https://www.breakingb2b.com](https://www.breakingb2b.com)
-
-**YouTube:** [https://www.youtube.com/@breakingb2b](https://www.youtube.com/@breakingb2b)
-
-**LinkedIn:** [https://www.linkedin.com/in/samdunning](https://www.linkedin.com/in/samdunning)
-
-> Focuses on B2B SEO, YouTube growth, and revenue-focused demand generation.
----
-
-**5. Tyler Lessard**
-
-**Role:** VP Marketing & Chief Video Strategist, Vidyard
+3. **Phil Nottingham**
+    + **Role:** Video Strategist & SEO Consultant
+    + **Website:** [https://organicvideo.co](https://organicvideo.co)
+    + **LinkedIn:** [https://www.linkedin.com/in/philnottingham](https://www.linkedin.com/in/philnottingham)
+    > Recognized authority on video SEO, YouTube strategy, and video-driven demand generation.
+4. **Sam Dunning**
+    + **Role:** Co-Founder, Breaking B2B
+    + **Website:** [https://www.breakingb2b.com](https://www.breakingb2b.com)
+    + **YouTube:** [https://www.youtube.com/@breakingb2b](https://www.youtube.com/@breakingb2b)
+    + **LinkedIn:** [https://www.linkedin.com/in/samdunning](https://www.linkedin.com/in/samdunning)
+    > Focuses on B2B SEO, YouTube growth, and revenue-focused demand generation.
+5. **Tyler Lessard**
+    + **Role:** VP Marketing & Chief Video Strategist, Vidyard
 
 **Website:** [https://www.vidyard.com](https://www.vidyard.com)
 
