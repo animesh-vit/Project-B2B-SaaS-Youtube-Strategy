@@ -130,7 +130,7 @@ The **YouTube content strategy for B2B SaaS** research set is organized under [`
       + Saves transcripts as structured files
       + Stores output within: [`Research/YouTube_Transcripts/`](Research/YouTube_Transcripts/)
     
-**7.LinkedIn Content Collection****
+**7.LinkedIn Content Collection**
 + Manually collected relevant LinkedIn posts from selected experts.
 + All posts were organized into a single raw-text file grouped by author in:
     + [`Research/Linkedin_Posts/raw-text-posts`](Research/Linkedin_Posts/raw-text-posts)
