@@ -1,13 +1,13 @@
  # SOP: B2B SaaS YouTube Content Strategy
 
-**Repository:** Project-B2B-SaaS-Youtube-Strategy
-**Based on:** 10 expert sources, 15 YouTube transcripts, and LinkedIn posts collected in `Research/`
+**Repository:** Project-B2B-SaaS-Youtube-Strategy\
+**Based on:** 10 expert sources, 15 YouTube transcripts, and LinkedIn posts collected in `Research/`\
 **Owner:** Animesh Dolas
 
 > Every recommendation below is tagged with a source in the format: *(source: [Author], [link], [date])*. 
 
 ## 1. Objective 
- - This playbook is a practical Standard Operating Procedure (SOP) defines a repeatable process for launching, producing, and growing a YouTube channel as a lead-generation and authority-building channel for a B2B SaaS company. 
+ - This playbook is a practical Standard Operating Procedure (SOP) defines a repeatable process for launching, producing and growing YouTube channel as a lead-generation and authority-building channel for a B2B SaaS company. 
  - Unlike generic YouTube growth guides that optimize for views or subscribers, this playbook focuses on creating content that attracts high-intent buyers, builds long-term trust, and generates qualified sales opportunities
  
 ### The framework is built around 4 sequential phases:
@@ -31,7 +31,7 @@ This playbook covers:
 - Lead generation
 - Sales enablement
 - Analytics
-
+---
 ## 3. Overall Workflow (Continuous Improvement Loop)
 ```mermaid
 flowchart TD
@@ -54,7 +54,7 @@ flowchart TD
 - Before investing in production, verify that YouTube is an effective channel for your market.
 
 #### Checklist
-- **Confirm YouTube appears for buyer-intent searches.**
+- [ ] **Confirm YouTube appears for buyer-intent searches.**
   - Foundation analyzed **8,000+ B2B SaaS keywords** and found YouTube appearing in:
     - **80%** of product demo searches
     - **22%** of "best [category]" searches
@@ -62,7 +62,7 @@ flowchart TD
     - **20%** of "[brand] vs [brand]" searches
   - *(**Source:** Ross Simmonds, LinkedIn, **17.06.2026**)*
 
-- **Validate with independent research.**
+- [ ] **Validate with independent research.**
   - Deliverable AI-friendly content outline.
   - Because AI search increasingly cites YouTube transcripts when answering detailed technical questions.
   - CASE STUDY 
@@ -71,22 +71,22 @@ flowchart TD
         - **75.1%** of bottom-of-funnel (BOFU) keywords with AI Overviews
   - *(**Source:** Tom Whatley, LinkedIn, ~**May 2026**)*
 
-- **Estimate the real addressable audience.**
+- [ ] **Estimate the real addressable audience.**
   - Don't compare B2B performance to consumer YouTube channels.
   - Hundreds of qualified ICP views often outperform thousands of irrelevant views.
   - If your ICP is extremely niche, prioritize videos for sales enablement (sales calls, follow-ups, website, onboarding) instead of relying solely on organic discovery.
   - *(**Source:** Samu Kovacs, LinkedIn, **23.06.2026**)*
 
-### *Step 2: Identify High-Potential Topics to attract qualified buyers.*
+### *Step 2 — Identify High-Potential Topics to attract qualified buyers.*
 
 #### Checklist
-- **Find Proven Content Patterns**
+- [ ] **Find Proven Content Patterns**
   - Use tools such as **VidIQ**, **10.com**, or similar platforms to identify "outlier" videos that achieved **3–7×** the channel's normal performance.
   - Reverse-engineer the framework (hook, angle, title, structure) instead of copying the topic directly.
   - Adapt the framework to your SaaS niche and ICP.
   - *(**Source:** Samu Kovacs, Watch me build a $100M B2B YouTube strategy in 12 minutes, **15.06.2026**)*
 
-- **Focus on Urgent & Expensive Problems**
+- [ ] **Focus on Urgent & Expensive Problems**
   - Choose topics that solve problems which are:
     - Recurring
     - High-value
@@ -96,7 +96,7 @@ flowchart TD
   - Avoid creating videos around interesting but low-priority problems.
   - *(**Source:** TK Kader, The 7 SaaS Ideas I'd Build in 2026, **14.06.2026**)*
 
-- **Create Information Gain** 
+- [ ] **Create Information Gain** 
   - Google increasingly rewards original information rather than duplicated summaries.
   - **Success Criteria:** Every video contains at least one insight unavailable in competing videos.
   - Before writing the script:
@@ -110,9 +110,8 @@ flowchart TD
         - Step-by-step implementation
         - Visual demonstrations
         - Practical examples
-
 Every video should answer the question:
-> **"Why should someone watch this instead of the current #1 result?"**
+> **"Why should someone watch this instead of the current #1 result?"**\
 
 **Source:** Tom Whatley, *How to create SEO content that ranks, fast*, **23.09.2024**
 
