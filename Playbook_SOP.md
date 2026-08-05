@@ -85,7 +85,7 @@ flowchart TD
     - **22%** of "best [category]" searches
     - **20%** of "[brand] review" searches
     - **20%** of "[brand] v/s [brand]" searches
-  - *(Source: Ross Simmonds, LinkedIn Post, May 2026, https://lnkd.in/p/dTzikYru.)*
+  - *(Source: Ross Simmonds, LinkedIn Post, June 2026, https://lnkd.in/p/dTzikYru.)*
 
 - [ ] **Validate with independent research.**
   - Deliverable AI-friendly content outline.
@@ -102,7 +102,7 @@ flowchart TD
   - In B2B, the buyer and the recommender are often different people (e.g., IT buys the tool, but a wider set of professionals recommends it) — target broader than "whoever signs the check."
   - Use search-intent research (informational, commercial-investigation, navigational, transactional) plus Reddit and niche-community research to find
   - **"content-market fit":** topics the audience demonstrably already cares about, evidenced by upvotes and engagement.
-  - *(Source: Phil Nottingham, YouTube Transcript, "How to Build an Audience", 14.07.2023, https://www.youtube.com/watch?v=ZEJVqvQe36w.)*
+  - *(Source: Phil Nottingham, YouTube, "How to Build an Audience", 14.07.2023, https://www.youtube.com/watch?v=ZEJVqvQe36w.)*
   - *(Source: Ross Simmonds, YouTube, "Content Growth Framework", 17.03.2023, https://www.youtube.com/watch?v=ZvZxuoLQr9U.)*
 
 - [ ] **Estimate the real addressable audience.**
@@ -178,6 +178,16 @@ Every video should answer the question:
 - Remove unnecessary intros, repetition, and filler during editing. [2]
 - Place a **soft CTA** (e.g., book a strategy call or start a free trial) around the **50% mark** of the video. [5]
 
+#### Video Blueprint based on experts
+| Time | Purpose |
+|------|---------|
+| **0:00–0:30** | **Hook:** State the expensive problem and immediately demonstrate the outcome or key insight to capture attention. *[1] [5]* |
+| **0:30–1:30** | **Roadmap:** Explain what viewers will learn and why it matters. Avoid lengthy brand introductions. *[1]* |
+| **1:30–6:00** | **Part 1 – Tactical Value:** Deliver high-density, actionable insights with minimal filler. *[2] [3]* |
+| **6:00–7:00** | **Soft CTA:** Introduce a relevant resource, newsletter, template, or self-serve demo that naturally supports the topic. *[6]* |
+| **7:00–11:00** | **Part 2 – Implementation:** Walk through the process step by step using examples or case studies to reinforce learning. *[1]* |
+| **11:00–End** | **Retention CTA:** Recommend the next relevant YouTube video or playlist to keep viewers within the content ecosystem. *[1] [3]* |
+
 > [!IMPORTANT]
 > Important statistics
 > - Track click-through rate in YouTube Analytics as the primary thumbnail/title metric: 
@@ -195,7 +205,8 @@ YouTube rewards videos that maximize viewer retention, watch time, and engagemen
     **[2]** *(Source: Samu Kovács, YouTube Transcript, "Watch Me Build a $100M B2B YouTube Strategy in 12 Minutes", 15.06.2026, https://www.youtube.com/watch?v=2tgEvv9Irrc.)*<br>
     **[3]** *(Source: Samu Kovács, YouTube Transcript, "A $7,000,000/yr B2B YouTube Strategy", 22.06.2026, https://www.youtube.com/watch?v=g2YXRjG87pE.)*<br>
     **[4]** *(Source: Tom Whatley, YouTube Transcript, "How to Create SEO Content That Ranks, Fast", 23.09.2024, https://www.youtube.com/watch?v=l1b8ok8lr_k.)*<br>
-    **[5]** *(Source: Sam Dunning, YouTube Transcript, "The Best SaaS Marketing Strategies for 2026", 16.06.2026, https://www.youtube.com/watch?v=hD10INBKeqw.)*
+    **[5]** *(Source: Sam Dunning, YouTube Transcript, "The Best SaaS Marketing Strategies for 2026", 16.06.2026, https://www.youtube.com/watch?v=hD10INBKeqw.)*<br>
+    **[6]** *(Source: Tyler Lessard, YouTube, "How to Use Video in B2B Marketing with Tyler Lessard - FINITE B2B Marketing", 02.08.2021, https://www.youtube.com/watch?v=Xuu-_fuKgTI.)*
 
 
 ### *Step 3: Build Founder Trust*
@@ -216,6 +227,21 @@ YouTube rewards videos that maximize viewer retention, watch time, and engagemen
 - **Batch Recording:** Publish 4 videos per month as the stated "sweet spot" cadence for this founder-led, YouTube-first model.
 - *(Source: Samu Kovács, YouTube, "Watch Me Build a $100M B2B YouTube Strategy in 12 Minutes", 15.06.2026, https://www.youtube.com/watch?v=2tgEvv9Irrc.)*
 
+#### AI-Assisted Research & Script Development
+*(Source: Ross Simmonds, LinkedIn Post, July 2026, https://lnkd.in/p/gGPbvm35.)*
+```text
+Research Sources
+        ↓
+Collect Transcripts & Articles
+        ↓
+AI Summarizes & Creates Outline
+        ↓
+AI Drafts Script
+        ↓
+Human Review & Fact-Check
+        ↓
+Final Script
+```
 ### *Step 5: Optimize for Watch Time, Not Views*
 - **Monitor**
   - Average View Duration
@@ -228,13 +254,13 @@ YouTube rewards videos that maximize viewer retention, watch time, and engagemen
   - Subscriber growth without engagement
 - A video watched by 100 qualified buyers is significantly more valuable than one viewed by thousands of irrelevant viewers. Engaged watch time is the most durable long-term metric for brand-building content, because it reflects genuine attention rather than inflated view counts — traditional money-in/money-out ROI doesn't track cleanly across a multi-touchpoint buyer journey.
 - (Source: Samu Kovács, YouTube, "Watch Me Build a $100M B2B YouTube Strategy in 12 Minutes", 15.06.2026, https://www.youtube.com/watch?v=2tgEvv9Irrc.)\
-- *(Source: Phil Nottingham, YouTube Transcript, "How to Build an Audience", 14.07.2023, https://www.youtube.com/watch?v=ZEJVqvQe36w.)* 
+- *(Source: Phil Nottingham, YouTube, "How to Build an Audience", 14.07.2023, https://www.youtube.com/watch?v=ZEJVqvQe36w.)* 
   
 - *🎯 Success criteria*
   - Retention above 40%
   - Returning viewers increasing
   - Watch time increasing month-over-month
-- *(Source: Phil Nottingham, YouTube Transcript, "How to Build an Audience", 14.07.2023, https://www.youtube.com/watch?v=ZEJVqvQe36w.)* 
+- *(Source: Phil Nottingham, YouTube, "How to Build an Audience", 14.07.2023, https://www.youtube.com/watch?v=ZEJVqvQe36w.)* 
 
 #### Phase 2 Output
 At the end of this phase, the organization should have:
@@ -258,7 +284,7 @@ At the end of this phase, the organization should have:
   - An SEO-optimized blog post covering the same topic.
 - Coordinate publishing so all three assets reinforce one another.
 - This expands reach to professional audiences while generating external traffic and search visibility.
-- (Source: Sam Dunning, YouTube Transcript, "The Best SaaS Marketing Strategies for 2026", 16.06.2026, https://www.youtube.com/watch?v=hD10INBKeqw.)
+- (Source: Sam Dunning, YouTube, "The Best SaaS Marketing Strategies for 2026", 16.06.2026, https://www.youtube.com/watch?v=hD10INBKeqw.)
 
 #### 2. Launch Thought Leadership Ads
 - Identify high-performing organic LinkedIn posts published by the founder or subject matter expert.
@@ -274,8 +300,8 @@ At the end of this phase, the organization should have:
 - Increased branded search volume.
 - Growth in qualified inbound leads.
   
-- *(Source: Adam Robinson, YouTube Transcript, "The ONLY Way to Build a $1M+ SaaS in 2026", 24.03.2026, https://www.youtube.com/watch?v=aaBZ3f5TViQ.)*
-- *(Source: TK Kader, YouTube Transcript, "The Fastest Way to Get 1,000 Paying SaaS Customers in 2026", 07.06.2026, https://www.youtube.com/watch?v=8KVqebVRXe8.)*.
+- *(Source: Adam Robinson, YouTube, "The ONLY Way to Build a $1M+ SaaS in 2026", 24.03.2026, https://www.youtube.com/watch?v=aaBZ3f5TViQ.)*
+- *(Source: TK Kader, YouTube, "The Fastest Way to Get 1,000 Paying SaaS Customers in 2026", 07.06.2026, https://www.youtube.com/watch?v=8KVqebVRXe8.)*.
 
 #### 3. Optimize for AI Search (GEO)
 - Ensure transcripts include:
@@ -296,38 +322,33 @@ At the end of this phase, the organization should have:
 >    - MQLs, SQLs, and pipeline generated from AI referrals.
 >  - Refresh older videos and supporting pages regularly, as AI systems heavily favor recent authoritative content.
 
-*(Sources: Ross Simmonds, LinkedIn post, 22.06.2026)*
-*(Ross Simmonds, YouTube transcript, "Your Old SEO Strategy Is Outdated | ROGEO Proves It," 06.05.2026)*
+*(Source: Ross Simmonds, LinkedIn Post, July 2026, https://lnkd.in/p/gGPbvm35.)*
+*(Source: Ross Simmonds, YouTube, "Your Old SEO Strategy Is Outdated | ROGEO Proves It", 06.05.2026, https://www.youtube.com/watch?v=MFx3FYW58Ls.)*
 
 #### 4. Publish Founder-Led LinkedIn Posts
 - Publish a LinkedIn post immediately after every YouTube release.
 - Reuse the video's opening hook as the LinkedIn hook.
 - Drive initial traffic from your owned audience before YouTube recommendations accelerate distribution.
-- *(Source: Samu Kovács, YouTube transcript, 22.06.2026)*
+- *(Source: Samu Kovács, YouTube, "The Best SaaS Marketing Strategies for 2026", 10.06.2026, https://www.youtube.com/watch?v=23wl0r4mSmQ.)*
 
 #### 5. Distribute Through Email
 
 - Feature every newly published YouTube video in the company newsletter.
 - Drive existing subscribers into the YouTube ecosystem and nurture them through educational content.
-
-*(Source: Samu Kovács, YouTube transcript, 22.06.2026)*
+- *(Source: Samu Kovács, YouTube, "A $7,000,000/yr B2B YouTube Strategy (Copy This)", 22.06.2026, https://www.youtube.com/watch?v=g2YXRjG87pE.)*
 
 #### 6. Repurpose Every Content Asset
-
-Repurpose every video into multiple platform-native formats, including:
-
-- Twitter/X thread
-- LinkedIn post
-- LinkedIn article
-- LinkedIn carousel
-- Reddit posts
-- Community discussions
-- Newsletter snippets
-- Blog updates
-
-The objective is to maximize the value and lifespan of every piece of content instead of relying solely on YouTube.
-
-*(Source: Ross Simmonds, YouTube transcript, "Content Growth Framework," 17.03.2023)*
+- Repurpose every video into multiple platform-native formats, including:
+      - Twitter/X thread
+      - LinkedIn post
+      - LinkedIn article
+      - LinkedIn carousel
+      - Reddit posts
+      - Community discussions
+      - Newsletter snippets
+      - Blog updates
+- The objective is to maximize the value and lifespan of every piece of content instead of relying solely on YouTube.
+- *(Source: Ross Simmonds, YouTube, "Content Growth Framework by Ross Simmonds of Foundation Marketing", 17.03.2023, https://www.youtube.com/watch?v=ZvZxuoLQr9U.)*
 
 #### 7. Build Partner-Led Distribution
 
@@ -335,9 +356,8 @@ The objective is to maximize the value and lifespan of every piece of content in
 - Request backlinks to relevant educational resources.
 - Position outreach as a mutually beneficial partnership rather than a traditional link-building campaign.
 - Continuously expand distribution through partner networks.
-
-*(Source: Ross Simmonds, YouTube transcript, "Content Growth Framework," 17.03.2023)*
-
+- *(Source: Ross Simmonds, YouTube, "Content Growth Framework by Ross Simmonds of Foundation Marketing", 17.03.2023, https://www.youtube.com/watch?v=ZvZxuoLQr9U.)*
+  
 #### 8. Build a Long-Term Educational Academy
 
 - Organize videos into structured learning playlists.
@@ -351,8 +371,7 @@ The objective is to maximize the value and lifespan of every piece of content in
 - Course completion rate
 - Returning learners
 - Increased product adoption
-
-*(Source: Nathan Latka, YouTube transcript, "How I Turned My Podcast into a $50M SaaS")*
+*(Source: Nathan Latka, YouTube, "How I Turned My Podcast into a $50M ARR B2B SaaS", 25.04.2024, https://www.youtube.com/watch?v=eOn-QCQph_E.)*
 
 > [!NOTE]
 > Timeline & Benchmarking are Author synthesis based on Samu Kovács & Phil Nottingham's long-term audience-building principles.
@@ -371,8 +390,8 @@ The objective is to maximize the value and lifespan of every piece of content in
 - Expect a slow initial growth curve before compounding begins.
 - Focus on consistent upward trends rather than viral performance.
 - **Sources**
-[1] *(Sources: Samu Kovács, YouTube transcript, "A $7,000,000/yr B2B YouTube Strategy," 22.06.2026)*
-[2] *(Sources: Phil Nottingham, 14.07.2023)*
+[1] *(Source: Samu Kovács, YouTube, "A $7,000,000/yr B2B YouTube Strategy", 22.06.2026, https://www.youtube.com/watch?v=g2YXRjG87pE.)*
+[2] *(Source: Phil Nottingham, YouTube, "Phil Nottingham | Strategist | How to Build an Audience | B2B Marketing | SEO | Viral Video | Ep #4", 14.07.2023, https://www.youtube.com/watch?v=ZEJVqvQe36w.)*
 
 ## Phase 3 Output
 At the end of this phase, the organization should have:
@@ -388,70 +407,51 @@ At the end of this phase, the organization should have:
 - Convert YouTube viewers into qualified pipeline while reducing sales friction and improving sales efficiency. 
 - Unlike B2C marketing, success in B2B SaaS isn't measured by subscribers or likes — it's measured by how many viewers become qualified opportunities and, eventually, customers.
 
-
-
 ### Step 1 — Replace "Book a Demo" with "Watch a Demo"
-
 - Many B2B buyers prefer understanding the product before speaking with Sales. Requiring an immediate meeting creates unnecessary friction. A recorded, self-serve demo allows prospects to evaluate the product at their own pace, increasing trust before engaging with Sales.
 
-> **Example:** Marketo reported significantly higher form-fill rates and faster lead qualification after replacing a **"Book a Demo"** CTA with a gated, on-demand demo library.
+> **Example:** Tyler Lessard highlights Marketo's shift toward on-demand demos as an example of reducing buyer friction before Sales engagement.
+*(Source: Tyler Lessard, YouTube, "How to Use Video in B2B Marketing with Tyler Lessard - FINITE B2B Marketing", 02.08.2021, https://www.youtube.com/watch?v=Xuu-_fuKgTI.)*
 
 #### Procedure
-
 - Replace the **"Book a Demo"** CTA with **"Watch a Demo."**
 - Create **10–15 minute** product walkthrough covering the core use case.
 - Gate demo behind a short lead form.
 - Request only essential qualification information.
 - Deliver the demo immediately after form submission.
-
-
+*(Source: Tyler Lessard, LinkedIn Post, February 2026, https://www.linkedin.com/posts/tylerlessard_how-to-lose-a-cybersecurity-prospect-in-10-activity-7422365615635668992-5Hks.)*
 
 #### Success Metrics
-
 - Demo completion rate
 - Form conversion rate
 - Demo-to-meeting conversion rate
 - Pipeline generated
-
-*(Source: Tyler Lessard, YouTube transcript, "How to Use Video in B2B Marketing," 02.08.2021; LinkedIn post)*
+*(Source: Tyler Lessard, YouTube, "How to Use Video in B2B Marketing with Tyler Lessard - FINITE B2B Marketing", 02.08.2021, https://www.youtube.com/watch?v=Xuu-_fuKgTI.)*
 
 ### Step 2 — Qualify Leads Using Video Engagement
-
 - Watching technical product content is often a stronger buying signal than downloading a generic ebook. 
 - Prioritize Sales outreach based on engagement rather than maximizing outreach volume.
 
-
-
 #### Procedure
-
 - Track viewer engagement across videos.
 - Identify viewers consuming high-intent content.
 - Alert Sales when engagement exceeds predefined thresholds.
 - Continue nurturing low-engagement prospects with educational content before initiating outreach.
+*(Source: Tyler Lessard, YouTube transcript, "How to Use Video in B2B Marketing")*
 
-
-
-#### Recommended Qualification Framework
-
-
+#### Recommended Qualification Framework 
 | Viewer Behavior                     | Sales Action               |
 | ----------------------------------- | -------------------------- |
 | Watches **80%+** of a pricing video | Immediate outreach         |
 | Watches multiple product videos     | High-priority lead         |
 | Watches feature tutorials           | Continue marketing nurture |
 | Watches less than **30 seconds**    | No sales outreach          |
-
-
-*(Source: Tyler Lessard, YouTube transcript, "How to Use Video in B2B Marketing")*
+*(Suggested Qualification Framework (Author synthesis based on Tyler Lessard's engagement-based lead scoring principles.)*
 
 ### Step 3 — Place Mid-Roll Calls to Action
-
 - Around **70% of viewers leave before reaching the end of a video**. Instead of relying solely on an end-screen CTA, introduce a soft CTA approximately **40–60%** into the video to reach a larger portion of the audience without disrupting the educational experience.
 
-
-
 #### Example CTAs
-
 - Download the implementation checklist.
 - Watch the complete product demo.
 - Join the newsletter.
@@ -459,10 +459,9 @@ At the end of this phase, the organization should have:
 - Explore the documentation.
 - Book a strategy call.
 
-*(Source: Samu Kovács, YouTube transcript, "A $7,000,000/yr B2B YouTube Strategy," 22.06.2026)*
+**(Source: Samu Kovács, YouTube Transcript, "A $7,000,000/yr B2B YouTube Strategy", 22.06.2026, https://www.youtube.com/watch?v=g2YXRjG87pE.)*
 
 ### Step 4 — Identify Anonymous Visitors
-
 - Identify companies and prospects visiting your website after engaging with YouTube content, then use LinkedIn for targeted outbound outreach.
 
 > **⚠️ COMPLIANCE CHECKPOINT:**
@@ -471,41 +470,29 @@ At the end of this phase, the organization should have:
 > 1. **US Traffic:** Generally permissible, but ensure your Privacy Policy explicitly mentions "Third-party identification and data enrichment."
 > 2. **EU/UK Traffic (GDPR):** Person-level identification of "anonymous" visitors without explicit consent is often prohibited.
 > 3. **Action:** Configure your identification tool to **Exclude EU/UK IP addresses** or trigger only after the user has accepted "Marketing Cookies" via your consent banner.
->
-> *(Source: Independent Strategy Adjustment based on Adam Robinson, 24.03.2026)*.
-
-
+> *(Source: Adam Robinson, YouTube, "The ONLY Way to Build a $1M+ SaaS in 2026", 24.03.2026, https://www.youtube.com/watch?v=aaBZ3f5TViQ.)*
 
 #### Procedure
-
 - Use visitor identification tools (e.g., RB2B) to identify anonymous website visitors.
 - Match visitor activity with content consumption.
 - Prioritize high-intent accounts for Sales follow-up.
 - Initiate personalized outreach through LinkedIn.
 
-*(Source: Adam Robinson, LinkedIn post, 24.03.2026)*
-*(Source: Adam Robinson, YouTube Transcript: "The ONLY Way to Build a $1M+ SaaS in 2026", 24.03.2026)*
+*(Source: Adam Robinson, LinkedIn Post, July 2026, https://lnkd.in/p/g5h26B2x.)*
+**(Source: Adam Robinson, YouTube Transcript, "The ONLY Way to Build a $1M+ SaaS in 2026", 24.03.2026, https://www.youtube.com/watch?v=aaBZ3f5TViQ.)*
 
-## Phase 5 Output
-
+## Phase 4 Output
 At the end of this phase, the organization should have:
-
 - A low-friction product demo funnel.
 - Video engagement-based lead qualification.
 - Mid-roll CTAs driving higher conversions.
 - Anonymous visitor identification for Sales.
 - A measurable YouTube-to-pipeline conversion system.
-*(Source: Samu Kovács, YouTube Transcript: "A $7,000,000/yr B2B YouTube Strategy", 22.06.2026)*
 
 ---
-
 ---
-
-
 
 ## 5. Where Experts Disagree
-
-
 
 ## Disagreement 1 — What drives YouTube growth: Discovery optimization or audience trust?
 
@@ -603,11 +590,7 @@ Prioritize efficiency over scale. Optimize for attracting qualified buyers rathe
 
 ---
 
-
-
 ## 6. What I Rejected and Why
-
-
 
 ### 1. Cold Email and Cold Calling as Core Growth Tactics
 
