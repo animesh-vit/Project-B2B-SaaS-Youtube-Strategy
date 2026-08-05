@@ -12,22 +12,22 @@ Throughout the playbook, recommendations are supported by expert sources. Where 
 2. **[Scope](#2-scope)**
 3. **[Overall Workflow](#3-overall-workflow-continuous-improvement-loop)**
 4. **[Standard Operating Procedure](#4-standard-operating-procedure)**
-  - [Phase 1: Research & Topic Selection](#phase-1-research--topic-selection)
-  * [Step 1: Identify Content-Market Fit](#step-1--identify-content-market-fit)
-  * [Step 2: Identify High-Potential Topics](#step-2-identify-high-potential-topics-to-attract-qualified-buyers)
-    - [Phase 2: Content Production & Optimization](#phase-2-content-production--optimization)
-      - [Step 1: Audit Existing Resource Material](#step-1-audit-existing-resource-material)
-      - [Step 2: Produce YouTube-Native Content](#step-2-produce-youtube-native-content)
-      - [Step 3: Build Founder Trust](#step-3-build-founder-trust)
-      - [Step 4: Video Production Strategy](#step-4-video-production-stratagy)
-      - [Step 5: Optimize for Watch Time, Not Views](#step-5-optimize-for-watch-time-not-views)
-    - [Phase 3: Distribution & Amplification](#phase-3-distribution--amplification)
-      - [Step 1: Maximize Distribution & Repurposing](#step-1-maximize-distribution--repurposing)
-    - [Phase 4: Convert Viewers into Pipeline](#phase-4-convert-viewers-into-pipeline)
-      - [Step 1: Replace "Book a Demo" with "Watch a Demo"](#step-1--replace-book-a-demo-with-watch-a-demo)
-      - [Step 2: Qualify Leads Using Video Engagement](#step-2--qualify-leads-using-video-engagement)
-      - [Step 3: Place Mid-Roll Calls to Action](#step-3--place-mid-roll-calls-to-action)
-      - [Step 4: Identify Anonymous Visitors](#step-4--identify-anonymous-visitors)
+      - [Phase 1: Research & Topic Selection](#phase-1-research--topic-selection)
+          - [Step 1: Identify Content-Market Fit](#step-1--identify-content-market-fit)
+          - [Step 2: Identify High-Potential Topics](#step-2-identify-high-potential-topics-to-attract-qualified-buyers)
+      - [Phase 2: Content Production & Optimization](#phase-2-content-production--optimization)
+          - [Step 1: Audit Existing Resource Material](#step-1-audit-existing-resource-material)
+          - [Step 2: Produce YouTube-Native Content](#step-2-produce-youtube-native-content)
+          - [Step 3: Build Founder Trust](#step-3-build-founder-trust)
+          - [Step 4: Video Production Strategy](#step-4-video-production-stratagy)
+          - [Step 5: Optimize for Watch Time, Not Views](#step-5-optimize-for-watch-time-not-views)
+      - [Phase 3: Distribution & Amplification](#phase-3-distribution--amplification)
+          - [Step 1: Maximize Distribution & Repurposing](#step-1-maximize-distribution--repurposing)
+      - [Phase 4: Convert Viewers into Pipeline](#phase-4-convert-viewers-into-pipeline)
+          - [Step 1: Replace "Book a Demo" with "Watch a Demo"](#step-1--replace-book-a-demo-with-watch-a-demo)
+          - [Step 2: Qualify Leads Using Video Engagement](#step-2--qualify-leads-using-video-engagement)
+          - [Step 3: Place Mid-Roll Calls to Action](#step-3--place-mid-roll-calls-to-action)
+          - [Step 4: Identify Anonymous Visitors](#step-4--identify-anonymous-visitors)
 5. **[Where Experts Disagree](#5-where-experts-disagree)**
 6. **[What I Rejected and Why](#6-what-i-rejected-and-why)**
 7. **[My Original Ideas](#7-my-original-ideas)**
