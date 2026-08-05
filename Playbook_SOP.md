@@ -497,147 +497,122 @@ At the end of this phase, the organization should have:
 ## Disagreement 1 — What drives YouTube growth: Discovery optimization or audience trust?
 
 **Samu Kovács' position**
-
 - Optimize every video for YouTube's recommendation system through titles, thumbnails, hooks, and structure.
 - Benchmark against outlier videos and continuously improve CTR and retention.
 - *(Source: Samu Kovács, YouTube, "Watch Me Build a $100M B2B YouTube Strategy in 12 Minutes", 15.06.2026, https://www.youtube.com/watch?v=2tgEvv9Irrc.)*
 
 **Phil Nottingham's position**
-
 - Avoid optimizing purely for clicks and impressions.
 - Focus on building deep audience relationships through genuinely valuable content.
 - Warns that chasing keywords and clickbait ultimately damages creativity and trust.
 - *(Source: Phil Nottingham, YouTube, "Phil Nottingham | Strategist | How to Build an Audience | B2B Marketing | SEO | Viral Video | Ep #4", 14.07.2023, https://www.youtube.com/watch?v=ZEJVqvQe36w.)*
 
 **My stance**
-Use Kovács' approach for packaging (titles, thumbnails, and hooks) so the right audience discovers the video. Follow Nottingham for the content itself and for measuring long-term success through engagement, watch time, and trust rather than views alone.
+- Use Kovács' approach for packaging (titles, thumbnails, and hooks) so the right audience discovers the video. Follow Nottingham for the content itself and for measuring long-term success through engagement, watch time, and trust rather than views alone.
 
 ## Disagreement 2 — What should be the primary growth engine: Founder brand or owned media?
 
 **Adam Robinson & TK Kader's position**
-
 - The founder's personal brand is the strongest growth asset.
 - Buyers trust people more than company logos.
 - Building under the founder's name accelerates credibility and organic distribution.
-*(Sources: Adam Robinson, YouTube transcript, 24.03.2026)*
-*(Source: TK Kader, YouTube Transcript: "Fastest Way to 1000 Customers")*
+*(Source: Adam Robinson, YouTube, "The ONLY Way to Build a $1M+ SaaS in 2026", 24.03.2026, https://www.youtube.com/watch?v=aaBZ3f5TViQ.)*
+*(Source: TK Kader, YouTube, "The Fastest Way to Get 1,000 Paying SaaS Customers in 2026", 07.06.2026, https://www.youtube.com/watch?v=8KVqebVRXe8.)*
 
 **Ross Simmonds, Sam Dunning & Phil Nottingham's position**
-
 - Build durable owned media through SEO, AI search optimization, educational content, and value-driven channel branding.
 - Growth should not depend entirely on one person's reputation.
 - *(Sources: Ross Simmonds, LinkedIn, 22.06.2026; Sam Dunning, LinkedIn, 22.06.2026; Phil Nottingham, YouTube.)*
 
 **My stance**
-Owned media should be the foundation because it remains valuable regardless of who is at the company. Founder-led content should amplify that system rather than replace it.
+- Owned media should be the foundation because it remains valuable regardless of who is at the company. Founder-led content should amplify that system rather than replace it.
 
 ## Disagreement 3 — How should content success be measured: Pipeline or engagement?
 
 **Ross Simmonds' position**
-
 - Content should ultimately generate measurable business outcomes.
 - Track pipeline, AI citations, MQLs, and revenue instead of vanity metrics.
 - *(Source: Ross Simmonds, YouTube transcript, "ROGEO," 06.05.2026.)*
 
 **Phil Nottingham's position**
-
 - Brand content cannot always be directly attributed to revenue.
 - Measure long-form educational content using watch time, engaged views, and audience quality.
 - *(Source: Phil Nottingham, YouTube transcript, 14.07.2023.)*
 
 **My stance**
-Use pipeline metrics for bottom-of-funnel content (comparisons, demos, pricing) and engagement metrics for top-of-funnel educational and thought leadership content.
+- Use pipeline metrics for bottom-of-funnel content (comparisons, demos, pricing) and engagement metrics for top-of-funnel educational and thought leadership content.
 
 ## Disagreement 4 — Should AI replace people in B2B content creation?
 
 **TK Kader's position**
-
 - AI agents should automate as much of the content workflow as possible.
 - AI can significantly increase production speed and scale.
 - *(Source: TK Kader, YouTube, "Agentic Workflows.")*
 
 **Phil Nottingham's position**
-
 - Human presenters are a critical trust signal.
 - AI avatars reduce authenticity and credibility in B2B marketing.
 - *(Source: Phil Nottingham, LinkedIn Post.)*
 
 **My stance**
-Use AI extensively for research, scripting, editing, and operations with Human-to-the-loop approch, but keep real people as the public face of the content. Trust is one of the strongest competitive advantages in B2B SaaS.
+- Use AI extensively for research, scripting, editing, and operations with Human-to-the-loop approch, but keep real people as the public face of the content. Trust is one of the strongest competitive advantages in B2B SaaS.
 
 ## Disagreement 5 — Should B2B optimize for reach or efficiency?
 
 **Phil Nottingham's position**
-
 - Include broader "Spark" content to expand audience reach and increase brand awareness.
 - Broader visibility supports long-term channel growth.
 - *(Source: Phil Nottingham, YouTube.)*
 
 **Samu Kovács' position**
-
 - A few hundred ICP viewers are more valuable than hundreds of thousands of irrelevant views.
 - Repurpose only when it serves YouTube performance; otherwise invest in YouTube-native content.
 - *(Source: Samu Kovács, LinkedIn & YouTube.)*
 
 **Ross Simmonds' position**
-
 - Maximize ROI by continuously repurposing and redistributing existing content.
 - "Create Once, Distribute Forever."
 - *(Source: Ross Simmonds, YouTube.)*
 
 **My stance**
-Prioritize efficiency over scale. Optimize for attracting qualified buyers rather than maximizing views, and extend the life of every asset through systematic repurposing instead of constantly producing new content.
+- Prioritize efficiency over scale. Optimize for attracting qualified buyers rather than maximizing views, and extend the life of every asset through systematic repurposing instead of constantly producing new content.
 
 ---
 
 ## 6. What I Rejected and Why
 
 ### 1. Cold Email and Cold Calling as Core Growth Tactics
-
 - Adam Robinson attributes roughly **20% of RB2B's revenue** to cold email and shares a cold-calling script achieving **12–13% pitch acceptance** on approximately **200 dials per rep per day**.
 - *(Source: Adam Robinson, YouTube transcript, "The ONLY Way to Build a $1M+ SaaS in 2026," 24.03.2026.)*
 
 **Why I rejected it**
-
 - This playbook focuses on **YouTube content strategy**, not outbound sales.
 - Cold email and cold calling require separate processes, tooling, KPIs, and team capabilities.
 - The reported performance is based on one company's experience and cannot be generalized into a repeatable YouTube SOP.
 
-
-
 ### 2. Acquiring Websites for Backlinks and Traffic
-
 - Ross Simmonds suggests acquiring existing niche websites with established traffic and backlinks to accelerate SEO growth, citing examples such as Semrush's acquisition of Backlinko.
 - *(Source: Ross Simmonds, YouTube transcript, "Content Growth Framework," 17.03.2023.)*
 
 **Why I rejected it**
-
 - Website acquisition is an investment and M&A decision rather than a content operation.
 - It requires significant capital, due diligence, and risk assessment.
 - It is not a repeatable process that most early-stage SaaS companies can execute as part of a weekly or monthly content workflow.
 
-
-
 ### 3. Phil Nottingham's "Pub Test"
-
 - Show a video to a random person and ask whether it feels interesting, honest, and understandable before publishing.
 - *(Source: Phil Nottingham.)*
 
 **Why I rejected it**
-
 - Technical B2B SaaS content targets a specialized audience with domain knowledge.
 - A random viewer is unlikely to represent the ideal customer profile (ICP).
 - Optimizing for a general audience risks oversimplifying content that should instead maximize value for qualified buyers.
 
-
-
 ### 4. TK Kader's "AI Back Office for Creators"
-
 - Use AI agents to automate creator workflows, operations, and administrative tasks.
 - *(Source: TK Kader.)*
 
 **Why I rejected it**
-
 - The recommendation focuses on operational productivity rather than audience growth.
 - This playbook is designed to improve YouTube strategy, content quality, and demand generation—not internal creator operations.
 
@@ -653,26 +628,17 @@ Prioritize efficiency over scale. Optimize for attracting qualified buyers rathe
 - This approach reflects Latka's personal brand rather than a universally applicable marketing strategy.
 - Most B2B SaaS companies sell to professional buyers, making expertise, credibility, and customer outcomes more persuasive than provocative personal positioning.
 
-
-
 ### 6. Large-Scale Programmatic SEO for Content Growth
-
 - Generate thousands of programmatic pages targeting long-tail search terms to increase organic traffic.
 - *(Source: Sam Dunning / Arnel.)*
 
 **Why I rejected it**
-
 - Search engines increasingly discourage thin, mass-produced content.
 - The same principle applies to YouTube—high volumes of low-value content erode trust and brand quality.
 - This conflicts with recommendations from Samu Kovács and Phil Nottingham, who emphasize producing fewer, higher-quality videos that deliver genuine value.
 
 ---
-
-
-
 ## 7. My Original Ideas
-
-
 
 ### Idea 1 — "The Bench": Build a Multi-Host Content Team Instead of a Founder-Only Channel
 
@@ -691,8 +657,6 @@ Prioritize efficiency over scale. Optimize for attracting qualified buyers rathe
   - Allows experts to speak within their own domain, increasing credibility.
   - Creates a long-term media asset that survives leadership changes.
 
-
-
 ### Idea 2 — Sales-Objection Shorts
 
 - Every sales team repeatedly answers the same objections during late-stage deals, yet these questions rarely become content.
@@ -708,12 +672,6 @@ Prioritize efficiency over scale. Optimize for attracting qualified buyers rathe
   - Improves alignment between sales and marketing by reusing insights already collected by the sales team.
 
 ---
-
-
-
-## 8. Weaknesses of This Playbook
-
-
 
 ## 8. Weaknesses of this Playbook
 
@@ -731,49 +689,35 @@ Prioritize efficiency over scale. Optimize for attracting qualified buyers rathe
 
 ---
 
-
-
 ## 9. Experts Whose Advice I Would Apply Selectively
 
 All 10 experts included in this research have demonstrated significant success in B2B SaaS, content marketing, or YouTube growth. However, not every approach is equally suitable for a repeatable YouTube-first demand generation system. The following experts provide valuable insights, but I would apply their recommendations selectively because they rely heavily on unique circumstances, personal brands, or business models that are difficult for most B2B SaaS companies to replicate.
 
 ### 1. Nathan Latka
-
 - **Media business over marketing system:** Latka's strategy is optimized around building a founder-led media business through high-volume founder interviews and proprietary revenue data rather than a repeatable YouTube demand-generation engine for a typical B2B SaaS company.
 - **High barrier to replication:** His competitive advantage comes from interviewing thousands of founders and building a unique data asset over many years—something most SaaS marketing teams cannot realistically reproduce.
 - **Different target audience:** Much of his content attracts founders, investors, and entrepreneurs rather than the specific decision-makers many B2B SaaS companies want to acquire.
 - *(Sources: Nathan Latka, YouTube: eOn-QCQph_E; Research/Others/Key Insight.md.)*
 
-
-
 ### 2. Adam Robinson
-
 - **Founder-dependent strategy:** Robinson's growth model is built around his own personal brand and willingness to be the public face of the company.
 - **Radical transparency is not universally applicable:** Publicly discussing layoffs, missed revenue targets, and internal failures can build trust, but many organizations—particularly larger enterprises and regulated companies—cannot communicate this openly.
 - **High dependence on founder-led distribution:** Much of the strategy relies on LinkedIn-to-YouTube promotion through an established founder audience, which many early-stage SaaS companies do not yet possess.
 - **Context-specific success:** His results are exceptional, but they are closely tied to his company, personality, and operating style rather than a universally transferable marketing framework.
-- *(Sources: Adam Robinson, YouTube transcript, "The ONLY Way to Build a $1M+ SaaS in 2026," 24.03.2026; LinkedIn Post 2.)*
-
-
+- *(Source: Adam Robinson, YouTube, "The ONLY Way to Build a $1M+ SaaS in 2026", 24.03.2026, https://www.youtube.com/watch?v=aaBZ3f5TViQ.)*
 
 ### 3. Rob Walling
-
 - **YouTube as a supporting channel:** Walling primarily uses YouTube to distribute podcasts and long-form discussions rather than creating videos specifically optimized for YouTube discovery.
 - **Limited YouTube-first optimization:** His content generally lacks the packaging, hooks, pacing, and retention-focused editing emphasized by experts such as Samu Kovács and Phil Nottingham.
 - **Audience retention over audience acquisition:** His channel serves an already-established audience extremely well but is less focused on using YouTube as a scalable customer acquisition channel.
 - *(Sources: Rob Walling, YouTube: 31b_nmLf7EQ; Samu Kovács, LinkedIn post, 22.06.2026.)*
 
-
-
 ### 4. Tyler Lessard
-
 - **Outdated tactical guidance:** The primary YouTube transcript in this research dates from **2021**, before the emergence of AI search, GEO (Generative Engine Optimization), and the major shifts in YouTube discovery discussed by several 2026 sources.
 - **Vendor-specific perspective:** Much of the advice is presented from his role at Vidyard and is illustrated using customer case studies, making some recommendations more applicable to video marketing generally than to a YouTube-first demand-generation strategy.
 - **Limited coverage of modern YouTube growth:** His recent LinkedIn content in this research focuses primarily on messaging and buyer communication rather than YouTube execution, AI search optimization, or creator-led growth.
 - **What I still adopted**
   - I retained his recommendation to use self-serve product demo videos because it directly reduces sales friction and supports buyer enablement. However, for current YouTube growth tactics, packaging, distribution, and AI-search optimization, I relied more heavily on the more recent recommendations from Samu Kovács, Ross Simmonds, Phil Nottingham, and Sam Dunning.
-
-*(Sources: Tyler Lessard, YouTube transcript, 2021; LinkedIn posts, 2026.)*
 
 - For organizations building YouTube as a repeatable B2B SaaS demand-generation channel, I would primarily model my strategy on **Samu Kovács**, **Phil Nottingham**, **Tyler Lessard**, **Ross Simmonds**, and **Sam Dunning**, whose recommendations are designed around scalable content systems.
 - I would apply advice from **Nathan Latka**, **Adam Robinson**, **Tyler Lessard** and **Rob Walling** more *selectively*. Their approaches have produced outstanding results but depend heavily on unique personal brands, business models, or existing audiences, making them less transferable to a standardized marketing SOP.
