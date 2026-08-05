@@ -437,7 +437,7 @@ At the end of this phase, the organization should have:
 - Identify viewers consuming high-intent content.
 - Alert Sales when engagement exceeds predefined thresholds.
 - Continue nurturing low-engagement prospects with educational content before initiating outreach.
-*(Source: Tyler Lessard, YouTube transcript, "How to Use Video in B2B Marketing")*
+*(Source: Tyler Lessard, YouTube, "How to Use Video in B2B Marketing with Tyler Lessard - FINITE B2B Marketing", 02.08.2021, https://www.youtube.com/watch?v=Xuu-_fuKgTI.)*
 
 #### Recommended Qualification Framework 
 | Viewer Behavior                     | Sales Action               |
@@ -500,14 +500,14 @@ At the end of this phase, the organization should have:
 
 - Optimize every video for YouTube's recommendation system through titles, thumbnails, hooks, and structure.
 - Benchmark against outlier videos and continuously improve CTR and retention.
-- *(Source: Samu Kovács, YouTube transcript, "Watch me build a $100M B2B YouTube strategy," 15.06.2026.)*
+- *(Source: Samu Kovács, YouTube, "Watch Me Build a $100M B2B YouTube Strategy in 12 Minutes", 15.06.2026, https://www.youtube.com/watch?v=2tgEvv9Irrc.)*
 
 **Phil Nottingham's position**
 
 - Avoid optimizing purely for clicks and impressions.
 - Focus on building deep audience relationships through genuinely valuable content.
 - Warns that chasing keywords and clickbait ultimately damages creativity and trust.
-- *(Source: Phil Nottingham, YouTube transcript, "How to build an audience," 14.07.2023.)*
+- *(Source: Phil Nottingham, YouTube, "Phil Nottingham | Strategist | How to Build an Audience | B2B Marketing | SEO | Viral Video | Ep #4", 14.07.2023, https://www.youtube.com/watch?v=ZEJVqvQe36w.)*
 
 **My stance**
 Use Kovács' approach for packaging (titles, thumbnails, and hooks) so the right audience discovers the video. Follow Nottingham for the content itself and for measuring long-term success through engagement, watch time, and trust rather than views alone.
