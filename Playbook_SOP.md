@@ -144,12 +144,10 @@ flowchart TD
     - Practical examples
 
 Every video should answer the question:
-> **"Why should someone watch this instead of the current #1 result?"**
-
-*(Source: Tom Whatley, YouTube, "How to Create SEO Content That Ranks, Fast", 23.09.2024, https://www.youtube.com/watch?v=l1b8ok8lr_k.)*
+> **"Why should someone watch this instead of the current #1 result?"**\
+> *(Source: Tom Whatley, YouTube, "How to Create SEO Content That Ranks, Fast", 23.09.2024, https://www.youtube.com/watch?v=l1b8ok8lr_k.)*
 
 #### Phase 1 Output
-
 - At the end of Phase 1, the team should have:
   - A validated Ideal Customer Profile
   - A prioritized list of customer problems
@@ -157,84 +155,65 @@ Every video should answer the question:
   - Evidence that topics match customer demand
   - Confidence that increased traffic will support business growth rather than amplify positioning issues
 
-
-
 ## Phase 2: Content Production & Optimization
-
 - Create educational, high-retention YouTube content that builds trust with potential customers and positions the company as an industry authority. 
 - Key emphasis is on producing YouTube videos specifically
 
-
-
 ### *Step 1: Audit existing resource material*
-
 - Inventory existing podcasts, webinars, LinkedIn posts, and newsletters — most companies already hold strong raw material but treat YouTube as storage rather than a channel.
 - Based on the audited material use script videos specifically for YouTube with a 10–13 minute target length.
 - **CASE STUDY** 
   - Channel built on re-uploads sat at roughly 300 subscribers with negligible organic views; the same material, restructured with YouTube-native titles, hooks, and packaging, produced videos with tens of thousands of views, one past 50,000.
-- *(**Source:** Samu Kovacs, YouTube Transcript: "Watch me build a $100M B2B YouTube strategy in 12 minutes", **15.06.2026**)*
-
-
-
+- *(Source: Samu Kovács, YouTube, "Watch Me Build a $100M B2B YouTube Strategy in 12 Minutes", 15.06.2026, https://www.youtube.com/watch?v=2tgEvv9Irrc.)*
+  
 ### *Step 2: Produce YouTube-Native Content*
+- Define **one clear objective** for the video. [1]
+- Open with the **bottom line** in the first **30 seconds** using a high-contrast hook (e.g., before/after, surprising statistic, or unexpected insight).[2]
+- Maintain **high value velocity** by delivering new, non-repetitive information throughout the video. [2]
+- Design the **thumbnail before recording** so the video's promise is clear.[3]
+- Keep the video focused on **one customer problem**.[4]
+- Target **10–15 minutes** when the topic requires depth.[4]
+- Remove unnecessary intros, repetition, and filler during editing. [2]
+- Place a **soft CTA** (e.g., book a strategy call or start a free trial) around the **50% mark** of the video. [5]
 
-- Define **one clear objective** for the video.
-- Open with the **bottom line** in the first **30 seconds** using a high-contrast hook (e.g., before/after, surprising statistic, or unexpected insight).
-- Maintain **high value velocity** by delivering new, non-repetitive information throughout the video.
-- Design the **thumbnail before recording** so the video's promise is clear.
-- Keep the video focused on **one customer problem**.
-- Target **10–15 minutes** when the topic requires depth.
-- Remove unnecessary intros, repetition, and filler during editing.
-- Place a **soft CTA** (e.g., book a strategy call or start a free trial) around the **50% mark** of the video.
-
-
-
-### Important statistics
-
-- Track click-through rate in YouTube Analytics as the primary thumbnail/title metric: 
-  - Above roughly 5–10% is good,
-  - Above ~10% is very good,
-  - Below ~5% needs work.
-- Do not measure video primarily by view count or classic ROI (direct-attribution revenue). Money-in/money-out ROI does not work as a measurement model for most video content because the customer journey across touchpoints cannot be tracked cleanly; pick a metric that is an honest proxy for value instead 
-*(source: Phil Nottingham, YouTube transcript, 14.07.2023)*
-- Time watched/engaged-view duration is the single most durable long-term metric for brand-building content, because it reflects genuine attention rather than inflated, platform-reported "view" counts *(source: Phil Nottingham, YouTube transcript, 14.07.2023)*
-
-
+> [!IMPORTANT]
+> Important statistics
+> - Track click-through rate in YouTube Analytics as the primary thumbnail/title metric: 
+>   - Above roughly 5–10% is good, [1]
+>   - Above ~10% is very good, [1]
+>   - Below ~5% needs work. [2]
+> - Do not measure video primarily by view count or classic ROI (direct-attribution revenue). Money-in/money-out ROI does not work as a measurement model for most video content because the customer journey across touchpoints cannot be tracked cleanly; pick a metric that is an honest proxy for value instead [1]
+> - Time watched/engaged-view duration is the single most durable long-term metric for brand-building content, because it reflects genuine attention rather than inflated, platform-reported "view" counts [1]
 
 #### Why it matters
+YouTube rewards videos that maximize viewer retention, watch time, and engagement. Videos with strong hooks, fast pacing, and continuous value outperform webinar-style recordings with slow introductions and unnecessary filler. [3]\
 
-YouTube rewards videos that maximize viewer retention, watch time, and engagement. Videos with strong hooks, fast pacing, and continuous value outperform webinar-style recordings with slow introductions and unnecessary filler.
-
-### Sources
-
-- **Samu Kovács**, *Watch me build a $100M B2B YouTube strategy*, YouTube Transcript, **15.06.2026**
-- **Samu Kovács**, *A $7,000,000/yr B2B YouTube Strategy*, YouTube Transcript, **22.06.2026**
-- **Tom Whatley**, *How to create SEO content that ranks, fast*, YouTube Transcript, **23.09.2024**
-
-
+> **Sources**\
+    **[1]** *(Source: Phil Nottingham, YouTube Transcript, "How to Build an Audience", 14.07.2023, https://www.youtube.com/watch?v=ZEJVqvQe36w.)* <br>
+    **[2]** *(Source: Samu Kovács, YouTube Transcript, "Watch Me Build a $100M B2B YouTube Strategy in 12 Minutes", 15.06.2026, https://www.youtube.com/watch?v=2tgEvv9Irrc.)*<br>
+    **[3]** *(Source: Samu Kovács, YouTube Transcript, "A $7,000,000/yr B2B YouTube Strategy", 22.06.2026, https://www.youtube.com/watch?v=g2YXRjG87pE.)*<br>
+    **[4]** *(Source: Tom Whatley, YouTube Transcript, "How to Create SEO Content That Ranks, Fast", 23.09.2024, https://www.youtube.com/watch?v=l1b8ok8lr_k.)*<br>
+    **[5]** *(Source: Sam Dunning, YouTube Transcript, "The Best SaaS Marketing Strategies for 2026", 16.06.2026, https://www.youtube.com/watch?v=hD10INBKeqw.)*
 
 ### *Step 3: Build Founder Trust*
-
 - Use authentic founder-led content to build to build a "human-to-human" connection that competitors can't easily replicate.
 - People buy from companies they trust. 
-- Authenticity creates a psychological advantage that AI-generated or overly polished corporate content struggles to achieve. *(Source: Phil Nottingham, LinkedIn Post: "Simple Expert-Led Product Videos Build Trust", 2026)*
+- Authenticity creates a psychological advantage that AI-generated or overly polished corporate content struggles to achieve.
+- *(Source: Phil Nottingham, LinkedIn Post, "Simple Expert-Led Product Videos Build Trust", February 2026, https://lnkd.in/p/gx_emNCf.)*
+  
 - **🎯 Success criteria**
   - Founder appears on camera
   - Personal experience included
   - Educational focus maintained
-- *(**Source:** Adam Robinson, YouTube transcript, "The ONLY Way to Build a $1M+ SaaS in 2026," **24.03.2026**)*
-
-
+- *(Source: Adam Robinson, YouTube, "The ONLY Way to Build a $1M+ SaaS in 2026", 24.03.2026, https://www.youtube.com/watch?v=aaBZ3f5TViQ.)*
 
 ### *Step 4: Video production stratagy*
-
-- **Recognize that consistency**, not initial polish, is the binding constraint. Editing, SEO, and packaging are described as "baseline requirements," but most companies quit before YouTube has had time to compound — 12 months of consistency matters more than any single strong video *(source: Samu Kovacs, LinkedIn post, 19.06.2026)*
-- **Batch Recording:** Publish 4 videos per month as the stated "sweet spot" cadence for this founder-led, YouTube-first model. *(Source: Samu Kovacs, YouTube Transcript: "Watch me build a $100M B2B YouTube strategy in 12 minutes", 15.06.2026)*
-
-
+- **Recognize that consistency**, not initial polish, is the binding constraint. Editing, SEO, and packaging are described as "baseline requirements," but most companies quit before YouTube has had time to compound — 12 months of consistency matters more than any single strong video
+-  *(source: Samu Kovacs, LinkedIn post, 19.06.2026)*
+- **Batch Recording:** Publish 4 videos per month as the stated "sweet spot" cadence for this founder-led, YouTube-first model.
+- *(Source: Samu Kovacs, YouTube Transcript: "Watch me build a $100M B2B YouTube strategy in 12 minutes", 15.06.2026)*
 
 ### *Step 5: Optimize for Watch Time, Not Views*
-
 - **Monitor**
   - Average View Duration
   - Watch Time
