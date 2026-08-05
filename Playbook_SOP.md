@@ -1,9 +1,10 @@
 # SOP: B2B SaaS YouTube Content Strategy
 
-**Based on:** 10 expert sources and their YouTube transcripts and LinkedIn posts collected in `Research/SSources`\
+**Based on:** 10 expert sources and their YouTube transcripts and LinkedIn posts collected in `Research/Sources`\
 **Owner:** Animesh Dolas
 
 Throughout the playbook, recommendations are supported by expert sources. Where experts disagree, their perspectives are compared and evaluated to provide a reasoned recommendation rather than simply summarizing opinions.
+
 ---
 <details>
 <summary> <b> 📑Table of Contents</b> </summary>
