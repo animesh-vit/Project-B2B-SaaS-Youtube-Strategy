@@ -1,7 +1,7 @@
 # SOP: B2B SaaS YouTube Content Strategy
 
 **Repository:** Project-B2B-SaaS-Youtube-Strategy\
-**Based on:** 10 expert sources and their YouTube transcripts and LinkedIn posts collected in `Research/SSources`
+**Based on:** 10 expert sources and their YouTube transcripts and LinkedIn posts collected in `Research/SSources`\
 **Owner:** Animesh Dolas
 
 Throughout the playbook, recommendations are supported by expert sources. Where experts disagree, their perspectives are compared and evaluated to provide a reasoned recommendation rather than simply summarizing opinions.
@@ -82,7 +82,7 @@ flowchart TD
     - **80%** of product demo searches
     - **22%** of "best [category]" searches
     - **20%** of "[brand] review" searches
-    - **20%** of "[brand] vs [brand]" searches
+    - **20%** of "[brand] v/s [brand]" searches
   - *(Source: Ross Simmonds, LinkedIn, 17.06.2026)*
 
 - [ ] **Validate with independent research.**
