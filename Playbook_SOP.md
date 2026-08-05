@@ -83,7 +83,7 @@ flowchart TD
     - **22%** of "best [category]" searches
     - **20%** of "[brand] review" searches
     - **20%** of "[brand] v/s [brand]" searches
-  - *(Source: Ross Simmonds, LinkedIn, 17.06.2026)*
+  - *(Source: Ross Simmonds, LinkedIn Post, May 2026, https://lnkd.in/p/dTzikYru.)*
 
 - [ ] **Validate with independent research.**
   - Deliverable AI-friendly content outline.
@@ -92,34 +92,32 @@ flowchart TD
     - Grizzle analyzed **3,623 videos across 71 SaaS channels** and found YouTube appearing in:
       - **74.9%** of SaaS keywords triggering Google AI Overviews
       - **75.1%** of bottom-of-funnel (BOFU) keywords with AI Overviews
-  - *(Source: Tom Whatley, LinkedIn, ~May 2026)*
+  - *(Source: Tom Whatley, LinkedIn Post, June 2026, https://lnkd.in/p/dKrYANbY.)*
+    
 - [ ] **Define the Channel's Value Proposition & Audience**
   - Define specifically who the channel is for, what problem it solves, and why anyone should care, independent of the parent brand.
   - **Pick one audience per channel:** retention depends on people returning for a coherent thing.
   - In B2B, the buyer and the recommender are often different people (e.g., IT buys the tool, but a wider set of professionals recommends it) — target broader than "whoever signs the check."
   - Use search-intent research (informational, commercial-investigation, navigational, transactional) plus Reddit and niche-community research to find
   - **"content-market fit":** topics the audience demonstrably already cares about, evidenced by upvotes and engagement.
-  *(Source: Phil Nottingham (YouTube transcript, "How to build an audience," 14.07.2023))*
-  *(Ross Simmonds YouTube transcript, "Content Growth Framework," 17.03.2023)*
+  - *(Source: Phil Nottingham, YouTube Transcript, "How to Build an Audience", 14.07.2023, https://www.youtube.com/watch?v=ZEJVqvQe36w.)*
+  - *(Source: Ross Simmonds, YouTube, "Content Growth Framework", 17.03.2023, https://www.youtube.com/watch?v=ZvZxuoLQr9U.)*
+
 - [ ] **Estimate the real addressable audience.**
   - Don't compare B2B performance to consumer YouTube channels.
   - Hundreds of qualified ICP views often outperform thousands of irrelevant views.
   - If your ICP is extremely niche, prioritize videos for sales enablement (sales calls, follow-ups, website, onboarding) instead of relying solely on organic discovery.
-  - *(Source: Samu Kovacs, LinkedIn, 23.06.2026)*
-
-
+  - *(Source: Samu Kovács, LinkedIn Post, June 2026, https://www.linkedin.com/posts/samu-kovacs_how-do-i-know-if-my-ideal-customers-are-activity-7475136870943780864-lO4Y.)*
 
 ### *Step 2: Identify High-Potential Topics to attract qualified buyers.*
-
-
-
 #### ✅Checklist
 
 - [ ] **Find Proven Content Patterns**
   - Use tools such as **VidIQ**, **10.com**, or similar platforms to identify "outlier" videos that achieved **3–7×** the channel's normal performance.
   - Reverse-engineer the framework (hook, angle, title, structure) instead of copying the topic directly.
   - Adapt the framework to your SaaS niche and ICP.
-  - *(Source: Samu Kovacs, Watch me build a $100M B2B YouTube strategy in 12 minutes,15.06.2026)*
+  - *(Source: Samu Kovács, YouTube, "Watch Me Build a $100M B2B YouTube Strategy in 12 Minutes", 15.06.2026, https://www.youtube.com/watch?v=2tgEvv9Irrc.)*
+    
 - [ ] **Focus on Urgent & Expensive Problems**
   - Choose topics that solve problems which are:
     - Recurring
@@ -128,7 +126,8 @@ flowchart TD
     - Operationally messy
     - Experienced by a clearly defined buyer
   - Avoid creating videos around interesting but low-priority problems.
-  - *(Source: TK Kader, The 7 SaaS Ideas I'd Build in 2026, 14.06.2026)*
+  - *(Source: TK Kader, YouTube, "The 7 SaaS Ideas I'd Build in 2026 If I Could Start Over", https://www.youtube.com/watch?v=scM150NpNZ4.)*
+    
 - [ ] **Create Information Gain** 
   - Google increasingly rewards original information rather than duplicated summaries.
   - **🎯 Success Criteria:** Every video contains at least one insight unavailable in competing videos.
@@ -145,10 +144,9 @@ flowchart TD
     - Practical examples
 
 Every video should answer the question:
-
 > **"Why should someone watch this instead of the current #1 result?"**
 
-*(Source: Tom Whatley, How to create SEO content that ranks, fast, 23.09.2024)*
+*(Source: Tom Whatley, YouTube, "How to Create SEO Content That Ranks, Fast", 23.09.2024, https://www.youtube.com/watch?v=l1b8ok8lr_k.)*
 
 #### Phase 1 Output
 
