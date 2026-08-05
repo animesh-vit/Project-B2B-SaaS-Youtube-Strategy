@@ -194,11 +194,12 @@ YouTube rewards videos that maximize viewer retention, watch time, and engagemen
     **[4]** *(Source: Tom Whatley, YouTube Transcript, "How to Create SEO Content That Ranks, Fast", 23.09.2024, https://www.youtube.com/watch?v=l1b8ok8lr_k.)*<br>
     **[5]** *(Source: Sam Dunning, YouTube Transcript, "The Best SaaS Marketing Strategies for 2026", 16.06.2026, https://www.youtube.com/watch?v=hD10INBKeqw.)*
 
+
 ### *Step 3: Build Founder Trust*
-- Use authentic founder-led content to build to build a "human-to-human" connection that competitors can't easily replicate.
-- People buy from companies they trust. 
-- Authenticity creates a psychological advantage that AI-generated or overly polished corporate content struggles to achieve.
-- *(Source: Phil Nottingham, LinkedIn Post, "Simple Expert-Led Product Videos Build Trust", February 2026, https://lnkd.in/p/gx_emNCf.)*
+  - Use authentic founder-led content to build to build a "human-to-human" connection that competitors can't easily replicate.
+  - People buy from companies they trust. 
+  - Authenticity creates a psychological advantage that AI-generated or overly polished corporate content struggles to achieve.
+  - *(Source: Phil Nottingham, LinkedIn Post, "Simple Expert-Led Product Videos Build Trust", February 2026, https://lnkd.in/p/gx_emNCf.)*
   
 - **🎯 Success criteria**
   - Founder appears on camera
@@ -210,7 +211,7 @@ YouTube rewards videos that maximize viewer retention, watch time, and engagemen
 - **Recognize that consistency**, not initial polish, is the binding constraint. Editing, SEO, and packaging are described as "baseline requirements," but most companies quit before YouTube has had time to compound — 12 months of consistency matters more than any single strong video
 -  *(source: Samu Kovacs, LinkedIn post, 19.06.2026)*
 - **Batch Recording:** Publish 4 videos per month as the stated "sweet spot" cadence for this founder-led, YouTube-first model.
-- *(Source: Samu Kovacs, YouTube Transcript: "Watch me build a $100M B2B YouTube strategy in 12 minutes", 15.06.2026)*
+- *(Source: Samu Kovács, YouTube Transcript, "Watch Me Build a $100M B2B YouTube Strategy in 12 Minutes", 15.06.2026, https://www.youtube.com/watch?v=2tgEvv9Irrc.)*
 
 ### *Step 5: Optimize for Watch Time, Not Views*
 - **Monitor**
@@ -227,7 +228,6 @@ YouTube rewards videos that maximize viewer retention, watch time, and engagemen
   - Retention above 40%
   - Returning viewers increasing
   - Watch time increasing month-over-month
-
 *(Source: Phil Nottingham, YouTube transcript, 14.07.2023)* 
 
 #### Phase 2 Output
