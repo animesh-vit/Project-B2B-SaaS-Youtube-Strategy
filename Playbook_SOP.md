@@ -35,6 +35,9 @@ Recommendation in this SOP is supported by expert sources. Where experts disagre
 7. **[My Original Ideas](#7-my-original-ideas)**
 8. **[Weaknesses of This Playbook](#8-weaknesses-of-this-playbook)**
 9. **[Experts Whose Advice I Would Apply Selectively](#9-experts-whose-advice-i-would-apply-selectively)**
+10. **[Conclusion](#Conclusion)**
+11. **[Future Scope](#Future-Scope)**
+12. **[Refrences](#Refrences)**
 </details>
 
 ---
