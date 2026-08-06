@@ -12,14 +12,14 @@ Recommendation in this SOP is supported by expert sources. Where experts disagre
 
 1. [Objective](#1-objective)
 2. [Scope](#2-scope)
-3. [Overall Workflow](#3-overall-workflow)
+3. [Overall Workflow](#3-overall-workflow-continuous-improvement-loop)
 4. [Standard Operating Procedure](#4-standard-operating-procedure)
    - [Phase 1 — Research & Topic Selection](#phase-1--research--topic-selection)
      - [Step 1: Identify Content-Market Fit](#step-1-identify-content-market-fit)
-     - [Step 2: Identify High-Potential Topics](#step-2-identify-high-potential-topics)
+     - [Step 2: Identify High-Potential Topics](#step-2-identify-high-potential-topics-to-attract-qualified-buyers)
      - [Phase 1 Output](#phase-1-output)
    - [Phase 2 — Content Production & Optimization](#phase-2--content-production--optimization)
-     - [Step 1: Audit Existing Resource Material](#step-1-audit-existing-resource-material)
+     - [Step 1: Audit Existing Content Assets*](#step-1-audit-existing-content-assets)
      - [Step 2: Produce YouTube-Native Content](#step-2-produce-youtube-native-content)
      - [Step 3: Build Founder Trust](#step-3-build-founder-trust)
      - [Step 4: Video Production Strategy](#step-4-video-production-strategy)
@@ -763,14 +763,7 @@ The following experts provide valuable insights, but I would apply their recomme
 
 - No single expert provides a complete solution. The strongest approach comes from critically evaluating multiple perspectives, adopting recommendations that align with business objectives, and rejecting ideas that do not fit the intended audience or long-term goals.
 
-## 11. References
-- All Refrences, including expert LinkedIn posts, YouTube transcripts is available in the following directories:
-  - `Research/Linkedin_Posts/`
-  - `Research/YouTube_Transcripts/`
-  - `Research/sources.md`
-- Please refer to these resources for the complete citations supporting the recommendations in this playbook.
-  
-## Future Scope
+## 11. Future Scope
 - As B2B SaaS marketing and AI-powered search continue to evolve, this playbook should be reviewed and refined regularly.
 - Future improvements may include:
   - **Generative Engine Optimization (GEO):** Update optimization practices as AI search engines evolve and introduce new ranking or citation mechanisms.
@@ -779,3 +772,13 @@ The following experts provide valuable insights, but I would apply their recomme
   - **Expanded Educational Ecosystem:** Explore structured learning resources, certification programs, and customer education libraries once a substantial content library has been established.
   - **International Expansion:** Localize high-performing content for priority markets after validating the strategy in the primary target market.
   - **Continuous Review:** Reassess this playbook every six months to incorporate new platform features, changing buyer behavior, and updated recommendations from industry experts.
+    
+---
+---
+
+## 12. References
+- All Refrences, including expert LinkedIn posts, YouTube transcripts is available in the following directories:
+  - `Research/Linkedin_Posts/`
+  - `Research/YouTube_Transcripts/`
+  - `Research/sources.md`
+- Please refer to these resources for the complete citations supporting the recommendations in this playbook.
