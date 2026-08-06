@@ -39,7 +39,6 @@ Throughout the playbook, recommendations are supported by expert sources. Where 
 ---
 
 ## Objective
-
 - This playbook is a practical Standard Operating Procedure (SOP) defines a repeatable process for launching, producing and growing YouTube channel as a lead-generation and authority-building channel for a B2B SaaS company.
 - Unlike generic YouTube growth guides that optimize for views or subscribers, this playbook focuses on creating content that attracts high-intent buyers, builds long-term trust, and generates qualified sales opportunities
 
@@ -718,30 +717,22 @@ The following experts provide valuable insights, but I would apply their recomme
 ---
 ## 10. Conclusion
 - This playbook demonstrates that YouTube can serve as a strategic growth engine for B2B SaaS companies when approached systematically. Rather than optimizing for vanity metrics such as views or subscribers, organizations should prioritize educational value, audience trust, and business outcomes.
-      - The combined insights from the researched experts reveal several recurring principles:
-      - Build content around real customer problems.
-      - Prioritize original insights over repetitive information.
-      - Develop trust through authentic founder or expert-led communication.
-      - Optimize for watch time and qualified engagement rather than broad reach.
-      - Extend the value of each video through structured distribution.
-      - Use video engagement as a signal for sales qualification.
-      - Continuously measure performance and refine the strategy based on data.
 
 - No single expert provides a complete solution. The strongest approach comes from critically evaluating multiple perspectives, adopting recommendations that align with business objectives, and rejecting ideas that do not fit the intended audience or long-term goals.
 
 ## 11. References
 - All Refrences, including expert LinkedIn posts, YouTube transcripts is available in the following directories:
-      - `Research/Linkedin_Posts/`
-      - `Research/YouTube_Transcripts/`
-      - `Research/sources.md`
+  - `Research/Linkedin_Posts/`
+  - `Research/YouTube_Transcripts/`
+  - `Research/sources.md`
 - Please refer to these resources for the complete citations supporting the recommendations in this playbook.
   
 ## Future Scope
 - As B2B SaaS marketing and AI-powered search continue to evolve, this playbook should be reviewed and refined regularly.
 - Future improvements may include:
-      - **Generative Engine Optimization (GEO):** Update optimization practices as AI search engines evolve and introduce new ranking or citation mechanisms.
-      - **AI-assisted Content Production:** Evaluate AI tools for research, editing, and repurposing while preserving human-led thought leadership and authenticity.
-      - **Advanced Attribution Models:** Develop multi-touch attribution models that combine watch time, AI referrals, CRM data, and pipeline influence to better measure content ROI.
-      - **Expanded Educational Ecosystem:** Explore structured learning resources, certification programs, and customer education libraries once a substantial content library has been established.
-      - **International Expansion:** Localize high-performing content for priority markets after validating the strategy in the primary target market.
-      - **Continuous Review:** Reassess this playbook every six months to incorporate new platform features, changing buyer behavior, and updated recommendations from industry experts.
+  - **Generative Engine Optimization (GEO):** Update optimization practices as AI search engines evolve and introduce new ranking or citation mechanisms.
+  - **AI-assisted Content Production:** Evaluate AI tools for research, editing, and repurposing while preserving human-led thought leadership and authenticity.
+  - **Advanced Attribution Models:** Develop multi-touch attribution models that combine watch time, AI referrals, CRM data, and pipeline influence to better measure content ROI.
+  - **Expanded Educational Ecosystem:** Explore structured learning resources, certification programs, and customer education libraries once a substantial content library has been established.
+  - **International Expansion:** Localize high-performing content for priority markets after validating the strategy in the primary target market.
+  - **Continuous Review:** Reassess this playbook every six months to incorporate new platform features, changing buyer behavior, and updated recommendations from industry experts.
