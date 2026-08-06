@@ -1,7 +1,7 @@
 # Standard Operating Procedure (SOP): B2B SaaS YouTube Content Strategy
 
-**Owner:** Animesh Dolas
-**Version** *1.0*
+**Owner:** Animesh Dolas\
+**Version** *1.0*\
 **Last Updated:** August 2026
 
 Recommendation in this SOP is supported by expert sources. Where experts disagree, their viewpoints are compared, evaluated, and synthesized into a reasoned recommendation rather than merely listing opinions.
