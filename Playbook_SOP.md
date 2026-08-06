@@ -1,6 +1,5 @@
 # SOP: B2B SaaS YouTube Content Strategy
 
-**Based on:** 10 expert sources and their YouTube transcripts and LinkedIn posts collected in `Research/Sources`\
 **Owner:** Animesh Dolas
 
 Throughout the playbook, recommendations are supported by expert sources. Where experts disagree, their perspectives are compared and evaluated to provide a reasoned recommendation rather than simply summarizing opinions.
@@ -507,7 +506,8 @@ At the end of this phase, the organization should have:
 - *(Source: Phil Nottingham, YouTube, "Phil Nottingham | Strategist | How to Build an Audience | B2B Marketing | SEO | Viral Video | Ep #4", 14.07.2023, https://www.youtube.com/watch?v=ZEJVqvQe36w.)*
 
 **My stance**
-- Use Kovács' approach for packaging (titles, thumbnails, and hooks) so the right audience discovers the video. Follow Nottingham for the content itself and for measuring long-term success through engagement, watch time, and trust rather than views alone.
+- Use Kovács' approach for packaging (titles, thumbnails, and hooks) so the right audience discovers the video.
+- Follow Nottingham for the content itself and for measuring long-term success through engagement, watch time, and trust rather than views alone.
 
 ## Disagreement 2 — What should be the primary growth engine: Founder brand or owned media?
 
@@ -521,7 +521,9 @@ At the end of this phase, the organization should have:
 **Ross Simmonds, Sam Dunning & Phil Nottingham's position**
 - Build durable owned media through SEO, AI search optimization, educational content, and value-driven channel branding.
 - Growth should not depend entirely on one person's reputation.
-- *(Sources: Ross Simmonds, LinkedIn, 22.06.2026; Sam Dunning, LinkedIn, 22.06.2026; Phil Nottingham, YouTube.)*
+- *(Source: Ross Simmonds, LinkedIn Post, July 2026, https://lnkd.in/p/gGPbvm35.)*
+- *(Source: Sam Dunning, LinkedIn Post, July 2026, https://lnkd.in/p/gAjQ3TQZ.)*
+- *(Source: Phil Nottingham, YouTube, "Phil Nottingham | Strategist | How to Build an Audience | B2B Marketing | SEO | Viral Video | Ep #4", 14.07.2023, https://www.youtube.com/watch?v=ZEJVqvQe36w.)*
 
 **My stance**
 - Owned media should be the foundation because it remains valuable regardless of who is at the company. Founder-led content should amplify that system rather than replace it.
@@ -531,12 +533,12 @@ At the end of this phase, the organization should have:
 **Ross Simmonds' position**
 - Content should ultimately generate measurable business outcomes.
 - Track pipeline, AI citations, MQLs, and revenue instead of vanity metrics.
-- *(Source: Ross Simmonds, YouTube transcript, "ROGEO," 06.05.2026.)*
+- *(Source: Ross Simmonds, YouTube, "Your Old SEO Strategy Is Outdated | ROGEO Proves It", 06.05.2026, https://www.youtube.com/watch?v=MFx3FYW58Ls.)*
 
 **Phil Nottingham's position**
 - Brand content cannot always be directly attributed to revenue.
 - Measure long-form educational content using watch time, engaged views, and audience quality.
-- *(Source: Phil Nottingham, YouTube transcript, 14.07.2023.)*
+- *(Source: Phil Nottingham, YouTube, "Phil Nottingham | Strategist | How to Build an Audience | B2B Marketing | SEO | Viral Video | Ep #4", 14.07.2023, https://www.youtube.com/watch?v=ZEJVqvQe36w.)*
 
 **My stance**
 - Use pipeline metrics for bottom-of-funnel content (comparisons, demos, pricing) and engagement metrics for top-of-funnel educational and thought leadership content.
@@ -546,32 +548,35 @@ At the end of this phase, the organization should have:
 **TK Kader's position**
 - AI agents should automate as much of the content workflow as possible.
 - AI can significantly increase production speed and scale.
-- *(Source: TK Kader, YouTube, "Agentic Workflows.")*
+- *(Source: TK Kader, YouTube Transcript, "The 7 SaaS Ideas I'd Build in 2026 If I Could Start Over", 14.06.2026, https://www.youtube.com/watch?v=scM150NpNZ4.)*
 
 **Phil Nottingham's position**
 - Human presenters are a critical trust signal.
 - AI avatars reduce authenticity and credibility in B2B marketing.
-- *(Source: Phil Nottingham, LinkedIn Post.)*
+- *(Source: Phil Nottingham, YouTube, "Phil Nottingham | Strategist | How to Build an Audience | B2B Marketing | SEO | Viral Video | Ep #4", 14.07.2023, https://www.youtube.com/watch?v=ZEJVqvQe36w.)*
 
 **My stance**
-- Use AI extensively for research, scripting, editing, and operations with Human-to-the-loop approch, but keep real people as the public face of the content. Trust is one of the strongest competitive advantages in B2B SaaS.
+- Use AI extensively for research, scripting, editing, and operations with Human-to-the-loop approch, but keep real people as the public face of the content.
+- Trust is one of the strongest competitive advantages in B2B SaaS.
 
 ## Disagreement 5 — Should B2B optimize for reach or efficiency?
 
 **Phil Nottingham's position**
 - Include broader "Spark" content to expand audience reach and increase brand awareness.
 - Broader visibility supports long-term channel growth.
-- *(Source: Phil Nottingham, YouTube.)*
+- *(Source: Phil Nottingham, YouTube, "Phil Nottingham | Strategist | How to Build an Audience | B2B Marketing | SEO | Viral Video | Ep #4", 14.07.2023, https://www.youtube.com/watch?v=ZEJVqvQe36w.)*
 
 **Samu Kovács' position**
 - A few hundred ICP viewers are more valuable than hundreds of thousands of irrelevant views.
 - Repurpose only when it serves YouTube performance; otherwise invest in YouTube-native content.
-- *(Source: Samu Kovács, LinkedIn & YouTube.)*
+- *(Source: Samu Kovács, YouTube Transcript, "Watch Me Build a $100M B2B YouTube Strategy in 12 Minutes", 15.06.2026, https://www.youtube.com/watch?v=2tgEvv9Irrc.)*
+- *(Source: Samu Kovács, LinkedIn Post, July 2026, https://lnkd.in/p/gwkv2M-A.)*
 
 **Ross Simmonds' position**
 - Maximize ROI by continuously repurposing and redistributing existing content.
 - "Create Once, Distribute Forever."
-- *(Source: Ross Simmonds, YouTube.)*
+- *(Source: Ross Simmonds, YouTube, "Content Growth Framework by Ross Simmonds of Foundation Marketing", 17.03.2023, https://www.youtube.com/watch?v=ZvZxuoLQr9U.)*
+- *(Source: Ross Simmonds, YouTube, "Your Old SEO Strategy Is Outdated | ROGEO Proves It", 06.05.2026, https://www.youtube.com/watch?v=MFx3FYW58Ls.)*
 
 **My stance**
 - Prioritize efficiency over scale. Optimize for attracting qualified buyers rather than maximizing views, and extend the life of every asset through systematic repurposing instead of constantly producing new content.
@@ -582,7 +587,7 @@ At the end of this phase, the organization should have:
 
 ### 1. Cold Email and Cold Calling as Core Growth Tactics
 - Adam Robinson attributes roughly **20% of RB2B's revenue** to cold email and shares a cold-calling script achieving **12–13% pitch acceptance** on approximately **200 dials per rep per day**.
-- *(Source: Adam Robinson, YouTube transcript, "The ONLY Way to Build a $1M+ SaaS in 2026," 24.03.2026.)*
+- *(Source: Adam Robinson, YouTube Transcript, "The ONLY Way to Build a $1M+ SaaS in 2026", 24.03.2026, https://www.youtube.com/watch?v=aaBZ3f5TViQ.)*
 
 **Why I rejected it**
 - This playbook focuses on **YouTube content strategy**, not outbound sales.
@@ -591,7 +596,7 @@ At the end of this phase, the organization should have:
 
 ### 2. Acquiring Websites for Backlinks and Traffic
 - Ross Simmonds suggests acquiring existing niche websites with established traffic and backlinks to accelerate SEO growth, citing examples such as Semrush's acquisition of Backlinko.
-- *(Source: Ross Simmonds, YouTube transcript, "Content Growth Framework," 17.03.2023.)*
+- *(Source: Ross Simmonds, YouTube, "Your Old SEO Strategy Is Outdated | ROGEO Proves It", 06.05.2026, https://www.youtube.com/watch?v=MFx3FYW58Ls.)*
 
 **Why I rejected it**
 - Website acquisition is an investment and M&A decision rather than a content operation.
@@ -600,7 +605,7 @@ At the end of this phase, the organization should have:
 
 ### 3. Phil Nottingham's "Pub Test"
 - Show a video to a random person and ask whether it feels interesting, honest, and understandable before publishing.
-- *(Source: Phil Nottingham.)*
+*(Source: Phil Nottingham, YouTube, "Phil Nottingham | Strategist | How to Build an Audience | B2B Marketing | SEO | Viral Video | Ep #4", 14.07.2023, https://www.youtube.com/watch?v=ZEJVqvQe36w.)*
 
 **Why I rejected it**
 - Technical B2B SaaS content targets a specialized audience with domain knowledge.
@@ -609,7 +614,7 @@ At the end of this phase, the organization should have:
 
 ### 4. TK Kader's "AI Back Office for Creators"
 - Use AI agents to automate creator workflows, operations, and administrative tasks.
-- *(Source: TK Kader.)*
+- *(Source: TK Kader, YouTube Transcript, "The Fastest Way to Get 1,000 Paying SaaS Customers in 2026", 07.06.2026, https://www.youtube.com/watch?v=8KVqebVRXe8.)*
 
 **Why I rejected it**
 - The recommendation focuses on operational productivity rather than audience growth.
@@ -617,7 +622,7 @@ At the end of this phase, the organization should have:
 
 ### 5. Nathan Latka's Anti-Traditional Education Positioning
 - Build a founder brand around rejecting traditional education and promoting entrepreneurship.
-- *(Source: Nathan Latka.)*
+- *(Source: Nathan Latka, YouTube Transcript, "How I Turned My Podcast into a $50M ARR B2B SaaS", 25.04.2024, https://www.youtube.com/watch?v=eOn-QCQph_E.)*
 
 **Why I rejected it**
 - This approach reflects Latka's personal brand rather than a universally applicable marketing strategy.
@@ -625,7 +630,7 @@ At the end of this phase, the organization should have:
 
 ### 6. Large-Scale Programmatic SEO for Content Growth
 - Generate thousands of programmatic pages targeting long-tail search terms to increase organic traffic.
-- *(Source: Sam Dunning / Arnel.)*
+- *(Source: Nathan Latka, YouTube Transcript, "How I Turned My Podcast into a $50M ARR B2B SaaS", 25.04.2024, https://www.youtube.com/watch?v=eOn-QCQph_E.)*
 
 **Why I rejected it**
 - Search engines increasingly discourage thin, mass-produced content.
@@ -638,7 +643,7 @@ At the end of this phase, the organization should have:
 ### Idea 1 — "The Bench": Build a Multi-Host Content Team Instead of a Founder-Only Channel
 - Most successful examples in this research rely on a single on-camera personality. 
 - Adam Robinson's growth is tied to Adam Robinson, Nathan Latka's channel revolves around Nathan Latka, and TK Kader and Samu Kovács similarly build content around one recognizable expert.
-- None of the reviewed experts discusses how a YouTube strategy survives if that individual leaves, burns out, or no longer wants to be the public face of the company  — which is a real and fairly common failure mode for founder-led content engines, distinct from the more commonly-warned-about failure of simply quitting too early *(source: Samu Kovacs, LinkedIn post, 19.06.2026)*.
+- None of the reviewed experts discusses how a YouTube strategy survives if that individual leaves, burns out, or no longer wants to be the public face of the company  — which is a real and fairly common failure mode for founder-led content engines, distinct from the more commonly-warned-about failure of simply quitting too early 
 - **My idea**
   - From the beginning, build the channel around a **team of 2–3 recurring hosts** rather than a single founder. For example:
     - Founder (vision and industry trends)
