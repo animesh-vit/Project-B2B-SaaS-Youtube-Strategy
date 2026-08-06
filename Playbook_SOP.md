@@ -14,18 +14,18 @@ Recommendation in this SOP is supported by expert sources. Where experts disagre
 2. **[Scope](#2-scope)**
 3. **[Overall Workflow](#3-overall-workflow-continuous-improvement-loop)**
 4. **[Standard Operating Procedure](#4-standard-operating-procedure)**
-      - [Phase 1: Research & Topic Selection](#phase-1-research--topic-selection)
+      - [Phase 1 — Research & Topic Selection](#phase-1-research--topic-selection)
           - [Step 1: Identify Content-Market Fit](#step-1--identify-content-market-fit)
           - [Step 2: Identify High-Potential Topics](#step-2-identify-high-potential-topics-to-attract-qualified-buyers)
-      - [Phase 2: Content Production & Optimization](#phase-2-content-production--optimization)
+      - [Phase 2 — Content Production & Optimization](#phase-2-content-production--optimization)
           - [Step 1: Audit Existing Resource Material](#step-1-audit-existing-resource-material)
           - [Step 2: Produce YouTube-Native Content](#step-2-produce-youtube-native-content)
           - [Step 3: Build Founder Trust](#step-3-build-founder-trust)
           - [Step 4: Video Production Strategy](#step-4-video-production-stratagy)
           - [Step 5: Optimize for Watch Time, Not Views](#step-5-optimize-for-watch-time-not-views)
-      - [Phase 3: Distribution & Amplification](#phase-3-distribution--amplification)
+      - [Phase 3 — Distribution & Amplification](#phase-3-distribution--amplification)
           - [Step 1: Maximize Distribution & Repurposing](#step-1-maximize-distribution--repurposing)
-      - [Phase 4: Convert Viewers into Pipeline](#phase-4-convert-viewers-into-pipeline)
+      - [Phase 4 — Convert Viewers into Pipeline](#phase-4-convert-viewers-into-pipeline)
           - [Step 1: Replace "Book a Demo" with "Watch a Demo"](#step-1--replace-book-a-demo-with-watch-a-demo)
           - [Step 2: Qualify Leads Using Video Engagement](#step-2--qualify-leads-using-video-engagement)
           - [Step 3: Place Mid-Roll Calls to Action](#step-3--place-mid-roll-calls-to-action)
@@ -78,10 +78,10 @@ flowchart TD
 ---
 ## 4. Standard Operating Procedure
 
-## Phase 1: Research & Topic Selection
+## Phase 1 — Research & Topic Selection
 - Identify customer-backed content opportunities that align with business goals and have a high probability of generating qualified pipeline.
 
-### *Step 1 — Identify Content-Market Fit*
+### *Step 1: Identify Content-Market Fit*
 - Before investing in production, verify that YouTube is an effective channel for your market.
 #### ✅ Checklist
 - [ ] **Confirm YouTube appears for buyer-intent searches.**
@@ -162,7 +162,7 @@ flowchart TD
   - Evidence that topics match customer demand
   - Confidence that additional traffic supports business growth
 
-## Phase 2: Content Production & Optimization
+## Phase 2 — Content Production & Optimization
 - Create educational, high-retention YouTube content that builds trust with potential customers and positions the company as an industry authority. 
 - Key emphasis is on producing YouTube videos specifically
 
@@ -291,7 +291,7 @@ At the end of this phase, the organization should have:
 - High-retention production
 - Videos optimized for trust instead of clicks
 
-## Phase 3: Distribution & Amplification
+## Phase 3 — Distribution & Amplification
 - Maximize the reach and business impact of every published YouTube video through systematic multi-channel distribution, content repurposing, paid amplification, and strategic partnerships.
 -Focus on extending the lifespan of each video while increasing awareness, engagement, and qualified pipeline.
 
@@ -425,7 +425,7 @@ At the end of this phase, the organization should have:
 - An educational content ecosystem (playlists, academy, or certification path).
 - Consistent inbound traffic and a scalable YouTube-driven demand generation engine.
 
-## Phase 4: Convert Viewers into Pipeline
+## Phase 4 — Convert Viewers into Pipeline
 - Convert YouTube viewers into qualified sales pipeline while reducing sales friction and improving sales efficiency. 
 - Unlike B2C marketing, success in B2B SaaS isn't measured by subscribers or likes — it's measured by how many viewers become qualified opportunities and, eventually, customers.
 
