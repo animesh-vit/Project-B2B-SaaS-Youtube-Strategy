@@ -778,7 +778,7 @@ The following experts provide valuable insights, but I would apply their recomme
 
 ## 12. References
 - All Refrences, including expert LinkedIn posts, YouTube transcripts is available in the following directories:
-  - `Research/Linkedin_Posts/`
-  - `Research/YouTube_Transcripts/`
-  - `Research/sources.md`
+   - [`Research/Sources.md`](Research/Sources.md)
+   - [`Research/Linkedin_Posts/`](Research/Linkedin_Posts/)
+   - [`Research/YouTube_Transcripts/`](Research/YouTube_Transcripts/)
 
