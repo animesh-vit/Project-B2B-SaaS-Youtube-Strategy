@@ -1,8 +1,10 @@
-# SOP: B2B SaaS YouTube Content Strategy
+# Standard Operating Procedure (SOP): B2B SaaS YouTube Content Strategy
 
 **Owner:** Animesh Dolas
+**Version** *1.0*
+**Last Updated:** August 2026
 
-Throughout the playbook, recommendations are supported by expert sources. Where experts disagree, their perspectives are compared and evaluated to provide a reasoned recommendation rather than simply summarizing opinions.
+Recommendation in this SOP is supported by expert sources. Where experts disagree, their viewpoints are compared, evaluated, and synthesized into a reasoned recommendation rather than merely listing opinions.
 
 ---
 <details>
@@ -37,10 +39,10 @@ Throughout the playbook, recommendations are supported by expert sources. Where 
 
 ---
 
-## Objective
-- This playbook is a practical Standard Operating Procedure (SOP) defines a repeatable process for launching, producing and growing YouTube channel as a lead-generation and authority-building channel for a B2B SaaS company.
-- Unlike generic YouTube growth guides that optimize for views or subscribers, this playbook focuses on creating content that attracts high-intent buyers, builds long-term trust, and generates qualified sales opportunities
-
+## 1. Objective
+- This SOP defines a repeatable process for launching, producing, and growing a YouTube channel as a lead-generation and authority-building engine for a B2B SaaS company.
+- Unlike generic YouTube growth guides that optimize for views and subscribers, this SOP focuses on attracting high-intent buyers, building long-term trust, and generating qualified sales opportunities.
+  
 ## 2. Scope
 This playbook covers:
 - Customer research
@@ -56,23 +58,25 @@ This playbook covers:
 - Analytics
 
 ## 3. Overall Workflow (Continuous Improvement Loop)
+
 ```mermaid
 flowchart TD
-    A[Audit existing content] --> B[Define audience & value prop]
-    B --> C[Plan content buckets]
-    C --> D[Script & package video]
-    D --> E[Publish ~4 time per month]
-    E --> F[Distribute: LinkedIn, newsletter, reposts]
-    F --> G[Measure: watch time + pipeline]
-    G --> H{Working?}
-    H -- Not yet, keep going --> E
-    H -- Yes --> I[Scale & refresh old videos]
+    A["Audit Existing Content"] --> B["Define Audience and Value Proposition"]
+    B --> C["Plan Content Buckets"]
+    C --> D["Script and Package Video"]
+    D --> E["Publish Weekly - 4 Videos per Month"]
+    E --> F["Distribute - LinkedIn, Newsletter, Repurposing"]
+    F --> G["Measure - Watch Time, CTR, Qualified Pipeline"]
+    G --> H{"Results Meeting Goals?"}
+    H -- Yes --> I["Scale and Refresh Top Videos"]
+    H -- No --> D
+    I --> E
 ```
 ---
 ## 4. Standard Operating Procedure
 
 ## Phase 1: Research & Topic Selection
-- Identify content opportunities that align customer demand with business objectives and have a high probability of generating qualified pipeline.
+- Identify customer-backed content opportunities that align with business goals and have a high probability of generating qualified pipeline.
 
 ### *Step 1 — Identify Content-Market Fit*
 - Before investing in production, verify that YouTube is an effective channel for your market.
@@ -88,17 +92,17 @@ flowchart TD
 - [ ] **Validate with independent research.**
   - Deliverable AI-friendly content outline.
   - Because AI search increasingly cites YouTube transcripts when answering detailed technical questions.
-  - CASE STUDY 
-    - Grizzle analyzed **3,623 videos across 71 SaaS channels** and found YouTube appearing in:
-      - **74.9%** of SaaS keywords triggering Google AI Overviews
-      - **75.1%** of bottom-of-funnel (BOFU) keywords with AI Overviews
+  > - **CASE STUDY**
+  >       -  Grizzle analyzed **3,623 videos across 71 SaaS channels** and found YouTube appearing in:\
+  >               - **74.9%** of SaaS keywords triggering Google AI Overviews\
+  >               -  **75.1%** of bottom-of-funnel (BOFU) keywords with AI Overviews
   - *(Source: Tom Whatley, LinkedIn Post, June 2026, https://lnkd.in/p/dKrYANbY.)*
     
 - [ ] **Define the Channel's Value Proposition & Audience**
   - Define specifically who the channel is for, what problem it solves, and why anyone should care, independent of the parent brand.
-  - **Pick one audience per channel:** retention depends on people returning for a coherent thing.
-  - In B2B, the buyer and the recommender are often different people (e.g., IT buys the tool, but a wider set of professionals recommends it) — target broader than "whoever signs the check."
-  - Use search-intent research (informational, commercial-investigation, navigational, transactional) plus Reddit and niche-community research to find
+  - **One channel = one primary audience.:** retention depends on people returning for a coherent thing.
+  - In B2B, the buyer and the recommender are often different people (e.g., IT buys the tool, but a wider set of professionals recommends it) — target a broader audience than just "whoever signs the check."
+  - Use search-intent research (informational, commercial-investigation, navigational, transactional) together with Reddit and niche-community research to identify topics your audience already cares about.
   - **"content-market fit":** topics the audience demonstrably already cares about, evidenced by upvotes and engagement.
   - *(Source: Phil Nottingham, YouTube, "How to Build an Audience", 14.07.2023, https://www.youtube.com/watch?v=ZEJVqvQe36w.)*
   - *(Source: Ross Simmonds, YouTube, "Content Growth Framework", 17.03.2023, https://www.youtube.com/watch?v=ZvZxuoLQr9U.)*
@@ -110,8 +114,8 @@ flowchart TD
   - *(Source: Samu Kovács, LinkedIn Post, June 2026, https://www.linkedin.com/posts/samu-kovacs_how-do-i-know-if-my-ideal-customers-are-activity-7475136870943780864-lO4Y.)*
 
 ### *Step 2: Identify High-Potential Topics to attract qualified buyers.*
-#### ✅Checklist
 
+#### ✅ Checklist
 - [ ] **Find Proven Content Patterns**
   - Use tools such as **VidIQ**, **10.com**, or similar platforms to identify "outlier" videos that achieved **3–7×** the channel's normal performance.
   - Reverse-engineer the framework (hook, angle, title, structure) instead of copying the topic directly.
@@ -130,30 +134,30 @@ flowchart TD
     
 - [ ] **Create Information Gain** 
   - Google increasingly rewards original information rather than duplicated summaries.
-  - **🎯 Success Criteria:** Every video contains at least one insight unavailable in competing videos.
+  > - **🎯 Success Criteria:** Every video contains at least one insight unavailable in competing videos.
   - Before writing the script:
     1. Search the target keyword.
     2. Review the highest-ranking videos and articles.
     3. List what existing content is missing.
     4. Add unique value such as:
-    - Original frameworks
-    - Customer stories
-    - Proprietary data
-    - Step-by-step implementation
-    - Visual demonstrations
-    - Practical examples
+          - Original frameworks
+          - Customer stories
+          - Proprietary data
+          - Step-by-step implementation
+          - Visual demonstrations
+          - Practical examples
 
-Every video should answer the question:
+**Every video should answer the question:**
 > **"Why should someone watch this instead of the current #1 result?"**\
 > *(Source: Tom Whatley, YouTube, "How to Create SEO Content That Ranks, Fast", 23.09.2024, https://www.youtube.com/watch?v=l1b8ok8lr_k.)*
 
 #### Phase 1 Output
 - At the end of Phase 1, the team should have:
-  - A validated Ideal Customer Profile
-  - A prioritized list of customer problems
+  - A validated Ideal Customer Profile (ICP)
+  - Prioritized customer problems
   - Original content angles
   - Evidence that topics match customer demand
-  - Confidence that increased traffic will support business growth rather than amplify positioning issues
+  - Confidence that additional traffic supports business growth
 
 ## Phase 2: Content Production & Optimization
 - Create educational, high-retention YouTube content that builds trust with potential customers and positions the company as an industry authority. 
